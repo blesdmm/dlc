@@ -1,0 +1,71 @@
+name: Auto Aggregator Proxies
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # 每 6 小时全自动运行抓取一次
+  workflow_dispatch:      # 允许您在 GitHub 网页上随时手动点击运行
+
+jobs:
+  Crawl:
+    permissions: write-all # 赋予工作流最高写入权限，用于推送节点文件
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout My Repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Clone Aggregator Project
+        run: |
+          # 克隆工具源码到临时目录
+          git clone --depth 1 https://github.com/wzdnzd/aggregator.git aggregator_src
+
+      - name: Install Dependencies
+        run: |
+          cd aggregator_src
+          python -m pip install --upgrade pip
+          # 安装项目运行所需的基础依赖库
+          if [ -f "requirements.txt" ]; then
+            pip install -r requirements.txt
+          else
+            pip install requests beautifulsoup4 lxml pyyaml pycryptodome
+          fi
+
+      - name: Run Collect Script
+        run: |
+          # 创建您自己的存储目录
+          mkdir -p source
+          
+          # 【核心改动】运行收集脚本，直接输出到您仓库的临时工作区，避免去配置 Gist 秘钥
+          cd aggregator_src
+          python subscribe/collect.py -k "dummy_token" -g "dummy/gist" -t clash v2ray singbox || true
+          
+          # 将生成的各类免费订阅节点安全移出到您的 source 文件夹
+          cd ..
+          cp -rf aggregator_src/data/* ./source/ 2>/dev/null || true
+          
+          # 清理工具源码
+          rm -rf aggregator_src
+
+      - name: Commit and Push Changes
+        run: |
+          # 配置您的自动化提交身份
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          git add source/
+          # 检查节点是否有更新，有更新则自动同步推送到您的 main 分支
+          if git diff --cached --quiet; then
+            echo "节点数据未发生变化，跳过本次提交。"
+          else
+            echo "发现新节点，正在同步到仓库..."
+            git commit -m "自动聚合最新免费节点 - $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
