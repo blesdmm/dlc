@@ -1,0 +1,64 @@
+name: Advanced Aggregator Process
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # 每 6 小时全自动高级清洗一次
+  workflow_dispatch:      # 允许在网页上手动点击按钮立即运行
+
+jobs:
+  Process:
+    permissions: write-all # 赋予工作流最高写入权限，用于推送节点文件
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout My Repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Clone Aggregator Project
+        run: |
+          git clone --depth 1 https://github.com aggregator_src
+
+      - name: Install Dependencies
+        run: |
+          cd aggregator_src
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt || pip install requests beautifulsoup4 lxml pyyaml pycryptodome
+
+      - name: Prepare Config and Run
+        run: |
+          mkdir -p source
+          cd aggregator_src
+          
+          # 1. 对应第一条命令：复制官方默认配置文件到根目录下
+          cp subscribe/config/config.default.json my-config.json
+          
+          # 2. 对应第二和第三条命令：在后台注入安全的临时内置Token，并启动高级过滤处理
+          export PUSH_TOKEN="${{ secrets.GITHUB_TOKEN }}"
+          python subscribe/process.py -s my-config.json || true
+          
+          # 3. 将 process.py 吐出的成品节点文件精准拷贝到你自己的 source 目录中
+          cd ..
+          cp -rf aggregator_src/data/* ./source/ 2>/dev/null || true
+          rm -rf aggregator_src
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          git add source/
+          if git diff --cached --quiet; then
+            echo "节点无变化，跳过提交。"
+          else
+            echo "高级洗净成功，正在同步新节点..."
+            git commit -m "高级路由自动洗净节点 - $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S')"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
