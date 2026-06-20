@@ -1,2 +1,2 @@
 proxies:
-  - {name: NODE1-VPN, server: node1-vpn.hrzy.me, port: 443, type: trojan, password: 43396668-e0ec-4b7a-8eac-2fd67996dfd8, skip-cert-verify: false, udp: true}
+  - {name: NODE1-VPN, server: node1-vpn.hrzy.me, port: 443, type: trojan, password: 1e609e1e-436e-410c-bbbe-20f6ca104c12, skip-cert-verify: false, udp: true}
