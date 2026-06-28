@@ -1,1 +1,1 @@
-{"outbounds":[{"type":"trojan","tag":"NODE1-VPN","server":"node1-vpn.hrzy.me","server_port":443,"password":"96c427e9-2b4c-4807-97b4-ff8cb31ebae6","tls":{"enabled":true,"insecure":false}}]}
+{"outbounds":[{"type":"trojan","tag":"NODE1-VPN","server":"node1-vpn.hrzy.me","server_port":443,"password":"031adcfa-1c70-4940-9902-1290082ba795","tls":{"enabled":true,"insecure":false}}]}
