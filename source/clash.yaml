@@ -1,2 +1,4 @@
 proxies:
-  - {name: NODE1-VPN, server: node1-vpn.hrzy.me, port: 443, type: trojan, password: 847dd093-0984-42b6-8ffb-41d53b44422e, skip-cert-verify: false, udp: true}
+  - {name: ANYTLS 2, server: fin.fast-freeway.ru, port: 2083, type: anytls, password: 0bdc821f-0aab-4e28-b0bc-8b451b53293c, udp: true, sni: fin.fast-freeway.ru, skip-cert-verify: false}
+  - {name: ANYTLS, server: de.fast-freeway.ru, port: 2083, type: anytls, password: 0bdc821f-0aab-4e28-b0bc-8b451b53293c, udp: true, sni: de.fast-freeway.ru, skip-cert-verify: false}
+  - {name: NODE1-VPN, server: node1-vpn.hrzy.me, port: 443, type: trojan, password: 6fa059a0-9e26-407e-8b1d-26b9d42cccfb, skip-cert-verify: false, udp: true}
