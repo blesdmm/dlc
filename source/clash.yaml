@@ -1,4 +1,4 @@
 proxies:
-  - {name: ANYTLS 2, server: fin.fast-freeway.ru, port: 2083, type: anytls, password: 0bdc821f-0aab-4e28-b0bc-8b451b53293c, udp: true, sni: fin.fast-freeway.ru, skip-cert-verify: false}
-  - {name: ANYTLS, server: de.fast-freeway.ru, port: 2083, type: anytls, password: 0bdc821f-0aab-4e28-b0bc-8b451b53293c, udp: true, sni: de.fast-freeway.ru, skip-cert-verify: false}
-  - {name: NODE1-VPN, server: node1-vpn.hrzy.me, port: 443, type: trojan, password: 6fa059a0-9e26-407e-8b1d-26b9d42cccfb, skip-cert-verify: false, udp: true}
+  - {name: 144.202.98.98 8444, server: 144.202.98.98, port: 8444, type: vmess, uuid: 81550b47-c6dd-4268-adf2-02054105c8e4, alterId: 0, cipher: auto, tls: false, udp: true}
+  - {name: 167.179.99.83 8443, server: 167.179.99.83, port: 8443, type: vmess, uuid: 81550b47-c6dd-4268-adf2-02054105c8e4, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "%2Fray"}, udp: true}
+  - {name: 🇯🇵 JAPAN-SS, server: 167.179.99.83, port: 8445, type: ss, cipher: aes-256-gcm, password: 81550b47-c6dd-4268-adf2-02054105c8e4, udp: true}
