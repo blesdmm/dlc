@@ -1,8 +1,7 @@
-https://hub.digitalcity5.site/api/v1/client/subscribe?token=7ee9f6588e09cfc1e55c8f53a06a7a57
-https://ttxdb.louwangzhiyu.website/api/v1/client/subscribe?token=460e43445f7341aa3fa3a1f03887951c
-https://multiserver.multiserveradelshoop.com/api/v1/client/subscribe?token=836e0b3294a8d2ef6a93c0c93e8f1441
-https://jiguang.dev/api/v1/client/subscribe?token=df491e0986a6b690dc47fcb153d92848
-https://www.yywhale.com/api/v1/client/subscribe?token=d5e11f524c64f74f1d585af70acada54
-https://cdn.wanda11.net/api/v1/client/subscribe?token=468466e2427488f22afc440257d57b92&burn=3h1lpoq034WMCImd
-https://ttxdb.louwangzhiyu.website/api/v1/client/subscribe?token=08de5f1f1396bc8f759a7289f416af2b
-https://ttxdb.louwangzhiyu.website/api/v1/client/subscribe?token=6d33c2888fbda2272a6b388c03663cc8
+https://ttxdb.louwangzhiyu.website/api/v1/client/subscribe?token=7ff6ffd41c38bfa737891a51b593da19
+https://ttxdb.louwangzhiyu.website/api/v1/client/subscribe?token=2ee9f7f97d85d602a04f6c990203531d
+https://multiserver.multiserveradelshoop.com/api/v1/client/subscribe?token=a19cb84a4bd73b7c768b318bfc3a3aaa
+https://www.yywhale.com/api/v1/client/subscribe?token=450ca87a40d4da3546efe460ede9f79a
+https://jiguang.dev/api/v1/client/subscribe?token=42f51941ec75a39cff1a62b1c94def68
+https://ttxdb.louwangzhiyu.website/api/v1/client/subscribe?token=b4e5f7ae1c82b891629d5906bcbfbb4f
+https://cdn.wanda11.net/api/v1/client/subscribe?token=12bb2592e4f496a897582413977791a9&burn=uc23Hqeh41ypFHNy
