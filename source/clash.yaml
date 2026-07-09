@@ -1,3 +1,8 @@
 proxies:
-  - {name: 🇯🇵 JAPAN-SS, server: 167.179.99.83, port: 8445, type: ss, cipher: aes-256-gcm, password: e877d2d4-f2ea-4325-80ea-21be8e26dc6e, udp: true}
-  - {name: 167.179.99.83 8443, server: 167.179.99.83, port: 8443, type: vmess, uuid: e877d2d4-f2ea-4325-80ea-21be8e26dc6e, alterId: 0, cipher: auto, tls: false, network: ws, ws-opts: {path: "%2Fray"}, udp: true}
+  - {name: 🇯🇵 日本公益-02, server: free73-jp2.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
+  - {name: 🇯🇵 日本公益-03, server: free73-jp3.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
+  - {name: 🇭🇰 香港公益-01, server: free73-hk1.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡公益-02, server: free77-sg2.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡公益-03, server: free77-sg3.node2.top, port: 443, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: free-sg3.node2.top, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡公益-01, server: free77-sg1.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
+  - {name: 🇯🇵 日本公益-01, server: free73-jp1.node2.top, port: 55004, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
