@@ -1,5 +1,5 @@
-https://www.yywhale.com/api/v1/client/subscribe?token=2fc64a16b746fe5be47508d6940280ce
-https://cdn.wanda11.net/api/v1/client/subscribe?token=fa26507c750c11c4df08b5778971d2bc&burn=baORJH7nW3lQj5ij
-https://api.vpn2.cc/xfj/9dbb990ed7a7f098ce33af84e09726e9
-https://panel.wulove.net/s/5627555fbf1ddfceba74b20a71f0507b
-https://multiserver.multiserveradelshoop.com/api/v1/client/subscribe?token=4783311ea4cf6cd3543f858510b665ee
+https://api.vpn2.cc/xfj/dfa10e21fd90ae9421887130f683ee30
+https://www.yywhale.com/api/v1/client/subscribe?token=87fab2e45027044328cf356a951a9002
+https://cdn.wanda11.net/api/v1/client/subscribe?token=81895f2f9497c7b2772a1667c162c3c9&burn=AocRqIyenxnGCyzr
+https://panel.wulove.net/s/9fa688833c3f84d57ca9ff86301777ae
+https://multiserver.multiserveradelshoop.com/api/v1/client/subscribe?token=b3a941bf710761441b316fb9a2b1a9de
