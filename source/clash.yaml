@@ -1,13 +1,15 @@
 proxies:
-  - {name: 🇸🇬 新加坡一号|高速|解锁|负载-1A, server: wandann3.wandajiasu.xyz, port: 42114, type: trojan, password: 944d6e72-9ace-4a10-9732-65a4734a98ec, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 日本公益-01, server: free73-jp1.node2.top, port: 55004, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
-  - {name: 🇭🇰 香港公益-03, server: free73-hk3.node2.top, port: 55001, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: atlhk1.jueduibupao.top, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡公益-02, server: free77-sg2.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
-  - {name: 🇭🇰 香港三号|高速|解锁|家宽IP-1A, server: wandann2.wandajiasu.xyz, port: 42003, type: trojan, password: 944d6e72-9ace-4a10-9732-65a4734a98ec, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国公益-02, server: free73-us2.node2.top, port: 55007, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: atlus1.jueduibupao.top, skip-cert-verify: true}
-  - {name: 🇯🇵 日本公益-03, server: free73-jp3.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
-  - {name: 🇭🇰 香港三号|高速|解锁|家宽IP-1B, server: wandann2.wandajiasu.xyz, port: 42003, type: trojan, password: 258103a3-66e9-4568-a9c3-ad235a6bd0d4, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国公益-03, server: free73-us3.node2.top, port: 55007, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: atlus1.jueduibupao.top, skip-cert-verify: true}
-  - {name: 🇺🇸 美国加速器 01, server: hk01.wulink.net, port: 8443, type: trojan, password: b31ffc50-20ee-4307-9def-d4145f5de092, sni: hk01.wulink.net, skip-cert-verify: false, udp: true}
-  - {name: 🇸🇬 新加坡公益-01, server: free77-sg1.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
+  - {name: 🇭🇰 香港一号|高速|解锁|家宽IP-1B, server: wandann2.wandajiasu.xyz, port: 42001, type: trojan, password: 0a19c726-252a-4450-92e7-8a4a564ee53d, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
   - {name: 🇯🇵 日本公益-02, server: free73-jp2.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡二号|高速|解锁|负载-1B, server: wandann3.wandajiasu.xyz, port: 42115, type: trojan, password: 0a19c726-252a-4450-92e7-8a4a564ee53d, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港二号|高速|解锁|家宽IP-1A, server: wandann3.wandajiasu.xyz, port: 42002, type: trojan, password: e6fc9b4c-a0ed-4396-a9bf-8241cdaaaa6a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国加速器 01, server: hk01.wulink.net, port: 8443, type: trojan, password: 35ed7f06-dcf6-4910-a231-428f72bd7fb1, sni: hk01.wulink.net, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国公益-03, server: free73-us3.node2.top, port: 55007, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: atlus1.jueduibupao.top, skip-cert-verify: true}
+  - {name: 🇯🇵 日本公益-01, server: free73-jp1.node2.top, port: 55004, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
+  - {name: 🇲🇾 马来西亚一号 专线|解锁-1B-GPT, server: wandann2.wandajiasu.xyz, port: 42126, type: trojan, password: 0a19c726-252a-4450-92e7-8a4a564ee53d, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 日本公益-03, server: free73-jp3.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
+  - {name: 🇺🇸 美国公益-02, server: free73-us2.node2.top, port: 55007, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: atlus1.jueduibupao.top, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡公益-02, server: free77-sg2.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡公益-01, server: free77-sg1.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡二号|高速|解锁|负载-1A, server: wandann3.wandajiasu.xyz, port: 42115, type: trojan, password: e6fc9b4c-a0ed-4396-a9bf-8241cdaaaa6a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港三号|高速|解锁|家宽IP-1A, server: wandann2.wandajiasu.xyz, port: 42003, type: trojan, password: e6fc9b4c-a0ed-4396-a9bf-8241cdaaaa6a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
