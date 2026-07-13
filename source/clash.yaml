@@ -1,16 +1,28 @@
 proxies:
-  - {name: 🇻🇳 越南一号|高速|解锁|负载-1A, server: wandann3.wandajiasu.xyz, port: 42010, type: trojan, password: 9fd5b500-ce4c-4131-a700-ef18198bc342, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
-  - {name: 🇸🇬 新加坡二号|高速|解锁|负载-1B, server: wandann3.wandajiasu.xyz, port: 42115, type: trojan, password: 81d2901a-9d6c-4814-9f5f-6fd93b54239a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
-  - {name: 🇻🇳 越南三号|高速|解锁|负载-1A, server: wandann3.wandajiasu.xyz, port: 42012, type: trojan, password: 9fd5b500-ce4c-4131-a700-ef18198bc342, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国加速器 01, server: hk01.wulink.net, port: 8443, type: trojan, password: 86cb58d0-ebc0-432e-88cc-fa5e1e377819, sni: hk01.wulink.net, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港二号|高速|解锁|家宽IP-1B, server: wandann3.wandajiasu.xyz, port: 42002, type: trojan, password: c0d958c8-3208-445e-8549-2c9842490c8a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇬 新加坡一号|高速|解锁|负载-1A, server: wandann3.wandajiasu.xyz, port: 42114, type: trojan, password: cde9abf3-888f-46ee-88f6-8d0c208495ac, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港一号|高速|解锁|家宽IP-1A, server: wandann2.wandajiasu.xyz, port: 42001, type: trojan, password: cde9abf3-888f-46ee-88f6-8d0c208495ac, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国公益-02, server: free73-us2.node2.top, port: 55007, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: atlus1.jueduibupao.top, skip-cert-verify: true}
   - {name: 🇯🇵 日本公益-01, server: free73-jp1.node2.top, port: 55004, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
-  - {name: 🇲🇾 马来西亚二号 专线|解锁-1B-GPT, server: wandann2.wandajiasu.xyz, port: 42127, type: trojan, password: 81d2901a-9d6c-4814-9f5f-6fd93b54239a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
-  - {name: 🇫🇷 法国一号|高速|解锁|负载-1B, server: wandann2.wandajiasu.xyz, port: 42013, type: trojan, password: 81d2901a-9d6c-4814-9f5f-6fd93b54239a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
-  - {name: 🇸🇬 新加坡一号|高速|解锁|负载-1B, server: wandann3.wandajiasu.xyz, port: 42114, type: trojan, password: 81d2901a-9d6c-4814-9f5f-6fd93b54239a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港二号|高速|解锁|家宽IP-1A, server: wandann3.wandajiasu.xyz, port: 42002, type: trojan, password: 9fd5b500-ce4c-4131-a700-ef18198bc342, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
-  - {name: 🇸🇬 新加坡公益-03, server: free77-sg3.node2.top, port: 443, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: free-sg3.node2.top, skip-cert-verify: true}
+  - {name: 🇺🇸 美国一号|高速|解锁|负载-1B, server: wandann3.wandajiasu.xyz, port: 42004, type: trojan, password: c0d958c8-3208-445e-8549-2c9842490c8a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇬 新加坡二号|高速|解锁|负载-1B, server: wandann3.wandajiasu.xyz, port: 42115, type: trojan, password: c0d958c8-3208-445e-8549-2c9842490c8a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇻🇳 越南二号|高速|解锁|负载-1B, server: wandann2.wandajiasu.xyz, port: 42011, type: trojan, password: c0d958c8-3208-445e-8549-2c9842490c8a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇲🇾 马来西亚一号 专线|解锁-1A-GPT, server: wandann2.wandajiasu.xyz, port: 42126, type: trojan, password: cde9abf3-888f-46ee-88f6-8d0c208495ac, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇲🇾 马来西亚二号 专线|解锁-1B-GPT, server: wandann2.wandajiasu.xyz, port: 42127, type: trojan, password: c0d958c8-3208-445e-8549-2c9842490c8a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
   - {name: 🇹🇼 台湾公益-01, server: free73-tw1.node2.top, port: 55006, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: tw3.jueduibupao.top, skip-cert-verify: true}
+  - {name: 🇭🇰 香港二号|高速|解锁|家宽IP-1A, server: wandann3.wandajiasu.xyz, port: 42002, type: trojan, password: cde9abf3-888f-46ee-88f6-8d0c208495ac, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
   - {name: 🇯🇵 日本公益-02, server: free73-jp2.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
-  - {name: 🇹🇼 台湾二号|高速|解锁|负载-1B, server: wandann3.wandajiasu.xyz, port: 42008, type: trojan, password: 81d2901a-9d6c-4814-9f5f-6fd93b54239a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国二号|高速|解锁|负载-1B, server: wandann2.wandajiasu.xyz, port: 42005, type: trojan, password: 81d2901a-9d6c-4814-9f5f-6fd93b54239a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国加速器 01, server: hk01.wulink.net, port: 8443, type: trojan, password: d7ebb028-57a7-4599-8191-75b59e2a69e6, sni: hk01.wulink.net, skip-cert-verify: false, udp: true}
-  - {name: 🇲🇾 马来西亚一号 专线|解锁-1A-GPT, server: wandann2.wandajiasu.xyz, port: 42126, type: trojan, password: 9fd5b500-ce4c-4131-a700-ef18198bc342, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇬 新加坡公益-01, server: free77-sg1.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
+  - {name: 🇰🇷 韩国一号|高速|解锁|负载-1A, server: wandann3.wandajiasu.xyz, port: 42112, type: trojan, password: cde9abf3-888f-46ee-88f6-8d0c208495ac, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇻🇳 越南三号|高速|解锁|负载-1B, server: wandann3.wandajiasu.xyz, port: 42012, type: trojan, password: c0d958c8-3208-445e-8549-2c9842490c8a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港公益-03, server: free73-hk3.node2.top, port: 55001, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: atlhk1.jueduibupao.top, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡一号|高速|解锁|负载-1B, server: wandann3.wandajiasu.xyz, port: 42114, type: trojan, password: c0d958c8-3208-445e-8549-2c9842490c8a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国公益-03, server: free73-us3.node2.top, port: 55007, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: atlus1.jueduibupao.top, skip-cert-verify: true}
+  - {name: 🇻🇳 越南二号|高速|解锁|负载-1A, server: wandann2.wandajiasu.xyz, port: 42011, type: trojan, password: cde9abf3-888f-46ee-88f6-8d0c208495ac, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 日本一号|高速|解锁|负载-1A, server: wandann3.wandajiasu.xyz, port: 42110, type: trojan, password: cde9abf3-888f-46ee-88f6-8d0c208495ac, sni: liulianglm.cc, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港三号|高速|解锁|家宽IP-1B, server: wandann2.wandajiasu.xyz, port: 42003, type: trojan, password: c0d958c8-3208-445e-8549-2c9842490c8a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港一号|高速|解锁|家宽IP-1B, server: wandann2.wandajiasu.xyz, port: 42001, type: trojan, password: c0d958c8-3208-445e-8549-2c9842490c8a, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇬 新加坡二号|高速|解锁|负载-1A, server: wandann3.wandajiasu.xyz, port: 42115, type: trojan, password: cde9abf3-888f-46ee-88f6-8d0c208495ac, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇬 新加坡公益-02, server: free77-sg2.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
+  - {name: 🇺🇸 美国二号|高速|解锁|负载-1A, server: wandann2.wandajiasu.xyz, port: 42005, type: trojan, password: cde9abf3-888f-46ee-88f6-8d0c208495ac, sni: any-cert.chegnxiaochang.cn, skip-cert-verify: false, udp: true}
