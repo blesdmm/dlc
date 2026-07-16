@@ -1,9 +1,6 @@
-https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=3c4bf366356548da3dd56d2540b5e147
-https://whalevpn.top/api/v1/client/subscribe?token=ed63c95f249123ed46b7d43b587dbb02
-https://whalevpn.top/api/v1/client/subscribe?token=af9e8d6ff11f68dcd9a371373a6147ea
-https://www.yywhale.com/api/v1/client/subscribe?token=afaa315c9743d19bfd49f0ba0ddce99a
-https://multiserver.multiserveradelshoop.com/api/v1/client/subscribe?token=8c4609c08183c379f0d730d0ebc1575d
-https://www.whalevpn.top/api/v1/client/subscribe?token=c1cb7baf59d6c6fd2fd231151ecfad88
-https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=71fd611e9912caa24543f2bea891be71
-https://panel.wulove.net/s/83bfb9eb6d7a1c0e325527712084a2ce
-https://sub716.vpn2.cc/xfj/b612e3e68d40fdb7415a7a4000180651
+https://multiserver.multiserveradelshoop.com/api/v1/client/subscribe?token=d902d9a347d693dd93898ca0b02f6306
+https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=6da8cb05ec3b8dd857963f3400c6c20e
+https://www.yywhale.com/api/v1/client/subscribe?token=0a0e3241333e622909e2d97f68a4002d
+https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=8c1934604a0184c43817fe0cfea7cbca
+https://v.wudamiao.cn/s/6f8858e9e8c47dc79438967c9d711412
+https://sub716.vpn2.cc/xfj/e084a09217911e0ee9c68063e69fdd0d
