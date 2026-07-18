@@ -1,3 +1,5 @@
-https://www.yywhale.com/api/v1/client/subscribe?token=0af5c65b68243ca90af9dce76bf68977
-https://multiserver.multiserveradelshoop.com/api/v1/client/subscribe?token=cf8c516b136a519e6a179454b335c900
-https://sub716.vpn2.cc/xfj/c72eaa596579e9c7ceb63bf83649c79b
+https://sub716.vpn2.cc/xfj/29bdd20dfcf22a833f455c1cd338067d
+https://multiserver.multiserveradelshoop.com/api/v1/client/subscribe?token=967fcd64fd1f5e71f5ed1bbcbee4f79d
+https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=defc0bcefd61655631f4be1b6ba8c9f9
+https://www.yywhale.com/api/v1/client/subscribe?token=12816b87f409f6ea11695045f6ba93d2
+https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=175baf789090d5d22251926672861d3e
