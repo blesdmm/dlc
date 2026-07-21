@@ -1,2 +1,4 @@
 proxies:
-  - {name: 🇭🇰 香港公益-01, server: 141.11.76.57, port: 8201, type: anytls, password: 91e99757-5fcb-47a0-9454-526309316ff6, udp: true, sni: itunes.apple.com, skip-cert-verify: true}
+  - {name: 🇭🇰 香港公益-03, server: free73-hk3.node2.top, port: 55001, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: atlhk1.jueduibupao.top, skip-cert-verify: true}
+  - {name: 🇭🇰 香港公益-01-1A, server: 141.11.76.57, port: 8201, type: anytls, password: 0a55cdc0-9a33-46c3-9b92-977c9bf10633, udp: true, sni: itunes.apple.com, skip-cert-verify: true}
+  - {name: 🇭🇰 香港公益-01-1B, server: 141.11.76.57, port: 8201, type: anytls, password: cfe3acd7-fad1-4784-bdfa-6eee027e5ef6, udp: true, sni: itunes.apple.com, skip-cert-verify: true}
