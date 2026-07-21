@@ -1,8 +1,2 @@
 proxies:
-  - {name: 🇺🇸 美国公益-02, server: free73-us2.node2.top, port: 55007, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: atlus1.jueduibupao.top, skip-cert-verify: true}
-  - {name: 🇭🇰 香港公益-03, server: free73-hk3.node2.top, port: 55001, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: atlhk1.jueduibupao.top, skip-cert-verify: true}
-  - {name: 🇭🇰 香港公益-01, server: 141.11.76.57, port: 8201, type: anytls, password: 3a3c769c-0323-4b0e-a0a0-5f3bc0a1a954, udp: true, sni: itunes.apple.com, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡公益-01, server: free77-sg1.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
-  - {name: 🇯🇵 日本公益-03, server: free73-jp3.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡公益-02, server: free77-sg2.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
-  - {name: 🇺🇸 美国公益-03, server: free73-us3.node2.top, port: 55007, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: atlus1.jueduibupao.top, skip-cert-verify: true}
+  - {name: 🇭🇰 香港公益-01, server: 141.11.76.57, port: 8201, type: anytls, password: 91e99757-5fcb-47a0-9454-526309316ff6, udp: true, sni: itunes.apple.com, skip-cert-verify: true}
