@@ -1,3 +1,3 @@
 proxies:
-  - {name: 🇯🇵 日本公益-01, server: free73-jp1.node2.top, port: 55004, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
+  - {name: 🇭🇰 香港公益-03电信, server: free73-hk3.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: ahk.jueduibupao.top, skip-cert-verify: true}
   - {name: 🇯🇵 日本公益-02移联, server: free73-jp2.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
