@@ -1,11 +1,13 @@
 proxies:
-  - {name: 🇹🇼 台湾-中转2区, server: sg.dickaws.top, port: 34516, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: snu.ac.kr, skip-cert-verify: true}
-  - {name: 🇦🇺 悉尼-中转1区2x, server: ace.fffo.cc, port: 5054, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: xini.fifafa.vip, skip-cert-verify: false}
-  - {name: 🇸🇬 新加坡-中转2区, server: sg.dickaws.top, port: 34501, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: sg.xinjiapo.fifafa.vip, skip-cert-verify: false}
-  - {name: 🇮🇩 印度尼西亚-中转2区, server: sg.dickaws.top, port: 34513, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: itb.ac.id, skip-cert-verify: true}
-  - {name: 🇺🇸 洛杉矶-中转2区, server: sg.dickaws.top, port: 34502, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: caltech.edu, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡-中转1区2x, server: ace.fffo.cc, port: 27923, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: sg.xinjiapo.fifafa.vip, skip-cert-verify: false}
-  - {name: 🇲🇾 马来家宽-中转2区2.5x, server: sg.dickaws.top, port: 34505, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: um.edu.my, skip-cert-verify: true}
-  - {name: 🇦🇺 悉尼-中转2区, server: sg.dickaws.top, port: 34506, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: xini.fifafa.vip, skip-cert-verify: false}
-  - {name: 🇮🇩 印度尼西亚-中转1区2x, server: ace.fffo.cc, port: 53852, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: itb.ac.id, skip-cert-verify: true}
-  - {name: 🇹🇭 泰国-中转2区, server: sg.dickaws.top, port: 34510, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: chula.ac.th, skip-cert-verify: true}
+  - {name: 🇯🇵 日本-中转2区2x, server: sg.dickaws.top, port: 34504, type: anytls, password: dc27e574-7aea-4bd4-b41a-4cfe20f5f6cb, udp: true, sni: waseda.jp, skip-cert-verify: true}
+  - {name: 🇲🇾 马来家宽-中转2区2.5x, server: sg.dickaws.top, port: 34505, type: anytls, password: dc27e574-7aea-4bd4-b41a-4cfe20f5f6cb, udp: true, sni: um.edu.my, skip-cert-verify: true}
+  - {name: 🇹🇼 台湾-中转2区, server: sg.dickaws.top, port: 34516, type: anytls, password: dc27e574-7aea-4bd4-b41a-4cfe20f5f6cb, udp: true, sni: snu.ac.kr, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡-中转2区, server: sg.dickaws.top, port: 34501, type: anytls, password: dc27e574-7aea-4bd4-b41a-4cfe20f5f6cb, udp: true, sni: sg.xinjiapo.fifafa.vip, skip-cert-verify: false}
+  - {name: 🇭🇰 香港-中转2区, server: sg.dickaws.top, port: 34515, type: anytls, password: dc27e574-7aea-4bd4-b41a-4cfe20f5f6cb, udp: true, sni: hk.xianggang.fifafa.vip, skip-cert-verify: false}
+  - {name: 🇮🇩 印度尼西亚-中转1区2x, server: ace.fffo.cc, port: 53852, type: anytls, password: dc27e574-7aea-4bd4-b41a-4cfe20f5f6cb, udp: true, sni: itb.ac.id, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡-中转1区2x, server: ace.fffo.cc, port: 27923, type: anytls, password: dc27e574-7aea-4bd4-b41a-4cfe20f5f6cb, udp: true, sni: sg.xinjiapo.fifafa.vip, skip-cert-verify: false}
+  - {name: 🇺🇸 洛杉矶-中转2区, server: sg.dickaws.top, port: 34502, type: anytls, password: dc27e574-7aea-4bd4-b41a-4cfe20f5f6cb, udp: true, sni: caltech.edu, skip-cert-verify: true}
+  - {name: 🇦🇺 悉尼-中转1区2x, server: ace.fffo.cc, port: 5054, type: anytls, password: dc27e574-7aea-4bd4-b41a-4cfe20f5f6cb, udp: true, sni: xini.fifafa.vip, skip-cert-verify: false}
+  - {name: 🇦🇺 悉尼-中转2区, server: sg.dickaws.top, port: 34506, type: anytls, password: dc27e574-7aea-4bd4-b41a-4cfe20f5f6cb, udp: true, sni: xini.fifafa.vip, skip-cert-verify: false}
+  - {name: 🇮🇩 印度尼西亚-中转2区, server: sg.dickaws.top, port: 34513, type: anytls, password: dc27e574-7aea-4bd4-b41a-4cfe20f5f6cb, udp: true, sni: itb.ac.id, skip-cert-verify: true}
+  - {name: 🇹🇭 泰国-中转2区, server: sg.dickaws.top, port: 34510, type: anytls, password: dc27e574-7aea-4bd4-b41a-4cfe20f5f6cb, udp: true, sni: chula.ac.th, skip-cert-verify: true}
