@@ -1,11 +1,11 @@
 proxies:
-  - {name: 🇸🇬 新加坡-中转1区, server: ace.fffo.cc, port: 27923, type: anytls, password: 39f5d145-20bc-4c20-af2c-b43dcc589842, udp: true, sni: sg.xinjiapo.fifafa.vip, skip-cert-verify: false}
-  - {name: 🇲🇾 马来家宽-中转2区2.5x, server: sg.dickaws.top, port: 34505, type: anytls, password: 39f5d145-20bc-4c20-af2c-b43dcc589842, udp: true, sni: um.edu.my, skip-cert-verify: true}
-  - {name: 🇸🇬 新加坡-中转2区, server: sg.dickaws.top, port: 34501, type: anytls, password: 39f5d145-20bc-4c20-af2c-b43dcc589842, udp: true, sni: sg.xinjiapo.fifafa.vip, skip-cert-verify: false}
-  - {name: 🇹🇼 台湾-中转2区, server: sg.dickaws.top, port: 34516, type: anytls, password: 39f5d145-20bc-4c20-af2c-b43dcc589842, udp: true, sni: snu.ac.kr, skip-cert-verify: true}
-  - {name: 🇮🇩 印度尼西亚-中转2区, server: sg.dickaws.top, port: 34513, type: anytls, password: 39f5d145-20bc-4c20-af2c-b43dcc589842, udp: true, sni: itb.ac.id, skip-cert-verify: true}
-  - {name: 🇺🇸 洛杉矶-中转2区, server: sg.dickaws.top, port: 34502, type: anytls, password: 39f5d145-20bc-4c20-af2c-b43dcc589842, udp: true, sni: caltech.edu, skip-cert-verify: true}
-  - {name: 🇩🇪 德国-中转2区2x, server: sg.dickaws.top, port: 34519, type: anytls, password: 39f5d145-20bc-4c20-af2c-b43dcc589842, udp: true, sni: hu-berlin.de, skip-cert-verify: true}
-  - {name: 🇯🇵 日本-中转2区, server: sg.dickaws.top, port: 34504, type: anytls, password: 39f5d145-20bc-4c20-af2c-b43dcc589842, udp: true, sni: waseda.jp, skip-cert-verify: true}
-  - {name: 🇭🇰 香港-中转2区, server: sg.dickaws.top, port: 34515, type: anytls, password: 39f5d145-20bc-4c20-af2c-b43dcc589842, udp: true, sni: hk.xianggang.fifafa.vip, skip-cert-verify: false}
-  - {name: 🇯🇵 日本公益-03电信, server: free73-jp3.node2.top, port: 7000, type: anytls, password: 4b15f822-b771-4a70-b358-ae9613d8b0ed, udp: true, sni: www.microsoft.com, skip-cert-verify: true}
+  - {name: 🇹🇼 台湾-中转2区, server: sg.dickaws.top, port: 34516, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: snu.ac.kr, skip-cert-verify: true}
+  - {name: 🇦🇺 悉尼-中转1区2x, server: ace.fffo.cc, port: 5054, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: xini.fifafa.vip, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡-中转2区, server: sg.dickaws.top, port: 34501, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: sg.xinjiapo.fifafa.vip, skip-cert-verify: false}
+  - {name: 🇮🇩 印度尼西亚-中转2区, server: sg.dickaws.top, port: 34513, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: itb.ac.id, skip-cert-verify: true}
+  - {name: 🇺🇸 洛杉矶-中转2区, server: sg.dickaws.top, port: 34502, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: caltech.edu, skip-cert-verify: true}
+  - {name: 🇸🇬 新加坡-中转1区2x, server: ace.fffo.cc, port: 27923, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: sg.xinjiapo.fifafa.vip, skip-cert-verify: false}
+  - {name: 🇲🇾 马来家宽-中转2区2.5x, server: sg.dickaws.top, port: 34505, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: um.edu.my, skip-cert-verify: true}
+  - {name: 🇦🇺 悉尼-中转2区, server: sg.dickaws.top, port: 34506, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: xini.fifafa.vip, skip-cert-verify: false}
+  - {name: 🇮🇩 印度尼西亚-中转1区2x, server: ace.fffo.cc, port: 53852, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: itb.ac.id, skip-cert-verify: true}
+  - {name: 🇹🇭 泰国-中转2区, server: sg.dickaws.top, port: 34510, type: anytls, password: ef9f4019-03ab-41a3-b9cf-51e18d7527a6, udp: true, sni: chula.ac.th, skip-cert-verify: true}
