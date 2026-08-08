@@ -1,1 +1,1 @@
-{"outbounds":[{"type":"shadowsocks","tag":"我的","server":"198.2.237.18","server_port":8882,"method":"chacha20-ietf-poly1305","password":"4f62568b-e923-4a05-b382-0e62cd2b0778"}]}
+{"outbounds":[{"type":"shadowsocks","tag":"我的","server":"198.2.237.18","server_port":8882,"method":"chacha20-ietf-poly1305","password":"5e0c4fc0-2dc4-498c-95ce-16f9d79090d2"}]}
