@@ -1,2 +1,2 @@
 proxies:
-  - {name: 我的, server: 198.2.237.18, port: 8882, type: ss, cipher: chacha20-ietf-poly1305, password: d10c5cd8-e263-47b7-aaaa-974173b9d807, udp: true}
+  - {name: 我的, server: 198.2.237.18, port: 8882, type: ss, cipher: chacha20-ietf-poly1305, password: 4f62568b-e923-4a05-b382-0e62cd2b0778, udp: true}
