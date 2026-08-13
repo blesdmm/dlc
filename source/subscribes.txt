@@ -1,8 +1,6 @@
-https://multiserver.multiserveradelshoop.com/api/v1/client/subscribe?token=23345faddb7ce5547d43ba5f1884986c
-https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=27e04922ce68cc868b62a311e9ee2fca
-https://119.29.57.170:38888/wuguisub?token=8bf5d2e1bb8521e72235b34b108278eb
-https://sub.chuofankeji.top/s/2f2e0d41649795f6f034b2d1bcebb107
-https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=956841eaea48dd94e8e65fd6be00c5ef
-https://www.yywhale.com/api/v1/client/subscribe?token=84248648c43abfaaf20947b9296683ce
-https://m.cqwer.xyz/api/v1/client/subscribe?token=a41aadfd14c6dd00ac979d7c3506e440
-https://dash.eggyun.cc/study/v3/eggcloud?token=495b90d6518c55bf93f639ffb0bd61d3
+https://multiserver.multiserveradelshoop.com/api/v1/client/subscribe?token=37e92b532b5d416b7ff728773ff2ed71
+https://board.eyelink.ai/s/8979f740433cd6a53776f054aba25b02
+https://sub.chuofankeji.top/s/d8630e705f758e25350cacb2bb633946
+https://m.cqwer.xyz/api/v1/client/subscribe?token=2758d533d3df18d15b4d48d1bfc3a370
+https://119.29.57.170:38888/wuguisub?token=19a2ab14a1c90045072cf368d2ed0103
+https://www.yywhale.com/api/v1/client/subscribe?token=db227cd5f5f0394bfaadc1ff34e9e1eb
