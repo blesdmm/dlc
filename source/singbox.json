@@ -1,1 +1,1 @@
-{"outbounds":[{"type":"shadowsocks","tag":"我的","server":"198.2.237.18","server_port":8882,"method":"chacha20-ietf-poly1305","password":"f8219372-b019-45aa-bd1e-2dec8d4b4f71"}]}
+{"outbounds":[{"type":"shadowsocks","tag":"🇺🇸 洛杉矶-新VPS-01","server":"107.174.201.177","server_port":30001,"method":"aes-128-gcm","password":"d6da3354-c88c-4c12-a98b-b43c2aee29cb"},{"type":"shadowsocks","tag":"🇺🇸 洛杉矶-新VPS-02","server":"107.174.201.177","server_port":443,"method":"aes-128-gcm","password":"d6da3354-c88c-4c12-a98b-b43c2aee29cb"}]}

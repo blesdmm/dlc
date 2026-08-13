@@ -1,2 +1,3 @@
 proxies:
-  - {name: 我的, server: 198.2.237.18, port: 8882, type: ss, cipher: chacha20-ietf-poly1305, password: f8219372-b019-45aa-bd1e-2dec8d4b4f71, udp: true}
+  - {name: 🇺🇸 洛杉矶-新VPS-01, server: 107.174.201.177, port: 30001, type: ss, cipher: aes-128-gcm, password: d6da3354-c88c-4c12-a98b-b43c2aee29cb, udp: true}
+  - {name: 🇺🇸 洛杉矶-新VPS-02, server: 107.174.201.177, port: 443, type: ss, cipher: aes-128-gcm, password: d6da3354-c88c-4c12-a98b-b43c2aee29cb, udp: true}
