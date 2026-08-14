@@ -1,6 +1,5 @@
-https://multiserver.multiserveradelshoop.com/api/v1/client/subscribe?token=37e92b532b5d416b7ff728773ff2ed71
-https://board.eyelink.ai/s/8979f740433cd6a53776f054aba25b02
-https://sub.chuofankeji.top/s/d8630e705f758e25350cacb2bb633946
-https://m.cqwer.xyz/api/v1/client/subscribe?token=2758d533d3df18d15b4d48d1bfc3a370
-https://119.29.57.170:38888/wuguisub?token=19a2ab14a1c90045072cf368d2ed0103
-https://www.yywhale.com/api/v1/client/subscribe?token=db227cd5f5f0394bfaadc1ff34e9e1eb
+https://multiserver.multiserveradelshoop.com/api/v1/client/subscribe?token=29bd9aa39d22f131d22319b10c15eab2
+https://m.cqwer.xyz/api/v1/client/subscribe?token=a3619667d1c41f39a6f070c7daafffe6
+https://119.29.57.170:38888/wuguisub?token=9cb1c25568a58bd96277bb44d589413f
+https://www.yywhale.com/api/v1/client/subscribe?token=242a2c91179b6e08185bfcaf3de529bb
+https://sub.chuofankeji.top/s/7ee31ac37fe4cdfe84c1087c7af11756
