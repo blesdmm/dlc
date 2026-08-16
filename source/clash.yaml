@@ -1,3 +1,3 @@
 proxies:
-  - {name: 🇺🇸 洛杉矶-新VPS-02, server: 107.174.201.177, port: 443, type: ss, cipher: aes-128-gcm, password: d0465cf4-1eb2-4872-93c5-0bb5d8d1870b, udp: true}
-  - {name: 🇺🇸 洛杉矶-新VPS-01, server: 107.174.201.177, port: 30001, type: ss, cipher: aes-128-gcm, password: d0465cf4-1eb2-4872-93c5-0bb5d8d1870b, udp: true}
+  - {name: 🇺🇸 洛杉矶-新VPS-02, server: 107.174.201.177, port: 443, type: ss, cipher: aes-128-gcm, password: 77095fe6-8661-415c-be43-3ca304e73428, udp: true}
+  - {name: 🇺🇸 洛杉矶-新VPS-01, server: 107.174.201.177, port: 30001, type: ss, cipher: aes-128-gcm, password: 77095fe6-8661-415c-be43-3ca304e73428, udp: true}
