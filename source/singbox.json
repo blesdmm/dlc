@@ -1,1 +1,1 @@
-{"outbounds":[{"type":"anytls","tag":"ANYTLS E2E-BOX","server":"bore.pub","server_port":24098,"password":"0b257558-c70f-464e-8a4f-2dd52635136f","tls":{"enabled":true,"insecure":true,"server_name":"bore.pub"}}]}
+{"outbounds":[{"type":"anytls","tag":"ANYTLS E2E-BOX","server":"bore.pub","server_port":24098,"password":"9a79df5b-d8ba-4466-a56b-41262d563feb","tls":{"enabled":true,"insecure":true,"server_name":"bore.pub"}}]}
