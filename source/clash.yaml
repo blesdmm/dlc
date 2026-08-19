@@ -1,2 +1,2 @@
 proxies:
-  - {name: ANYTLS E2E-BOX, server: bore.pub, port: 24098, type: anytls, password: 9a79df5b-d8ba-4466-a56b-41262d563feb, udp: true, sni: bore.pub, skip-cert-verify: true}
+  - {name: ANYTLS E2E-BOX, server: bore.pub, port: 24098, type: anytls, password: 928e3614-24fe-47c5-a5d5-9fedfc782b22, udp: true, sni: bore.pub, skip-cert-verify: true}
