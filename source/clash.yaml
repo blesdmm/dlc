@@ -1,2 +1,10 @@
 proxies:
-  - {name: ANYTLS E2E-BOX, server: bore.pub, port: 24098, type: anytls, password: 928e3614-24fe-47c5-a5d5-9fedfc782b22, udp: true, sni: bore.pub, skip-cert-verify: true}
+  - {name: 🇫🇷 FRANCE, server: 141.253.107.174, port: 22345, type: ss, cipher: chacha20-ietf-poly1305, password: 0a8fcef5-5d2d-49ce-8f4e-f76bc4c5d1fa, udp: true}
+  - {name: CHILE, server: 129.151.99.94, port: 23345, type: ss, cipher: chacha20-ietf-poly1305, password: 0a8fcef5-5d2d-49ce-8f4e-f76bc4c5d1fa, udp: true}
+  - {name: 🇺🇸 UNITED STATES, server: 152.67.250.45, port: 52345, type: ss, cipher: chacha20-ietf-poly1305, password: 0a8fcef5-5d2d-49ce-8f4e-f76bc4c5d1fa, udp: true}
+  - {name: SWITZERLAND, server: 140.238.175.124, port: 33345, type: ss, cipher: chacha20-ietf-poly1305, password: 0a8fcef5-5d2d-49ce-8f4e-f76bc4c5d1fa, udp: true}
+  - {name: 🇸🇬 SINGAPORE, server: 140.245.121.101, port: 43345, type: ss, cipher: chacha20-ietf-poly1305, password: 0a8fcef5-5d2d-49ce-8f4e-f76bc4c5d1fa, udp: true}
+  - {name: 🇭🇰 HONG KONG, server: 202.155.141.87, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: 0a8fcef5-5d2d-49ce-8f4e-f76bc4c5d1fa, udp: true}
+  - {name: 🇬🇧 THE UNITED KINGDOM, server: 140.238.64.207, port: 42345, type: ss, cipher: chacha20-ietf-poly1305, password: 0a8fcef5-5d2d-49ce-8f4e-f76bc4c5d1fa, udp: true}
+  - {name: 🇺🇸 美国高速-AI专用, server: suyun.laowu.life, port: 49152, type: trojan, password: 3861dcf5-a15c-4bf1-a761-b56995af4c08, sni: suyun.laowu.life, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇦 CANADA, server: 140.238.153.81, port: 13345, type: ss, cipher: chacha20-ietf-poly1305, password: 0a8fcef5-5d2d-49ce-8f4e-f76bc4c5d1fa, udp: true}
