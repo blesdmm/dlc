@@ -1,13 +1,13 @@
 proxies:
-  - {name: 🇯🇵 东京节点1, server: 54.95.114.31, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 611f31e5-8a5a-45af-a4e6-43c9f68e22b9, udp: true}
-  - {name: 🇭🇰 香港节点1, server: 156.226.169.18, port: 20000, type: ss, cipher: chacha20-ietf-poly1305, password: 611f31e5-8a5a-45af-a4e6-43c9f68e22b9, udp: true}
-  - {name: 🇺🇸 UNITED STATES, server: 152.67.250.45, port: 52345, type: ss, cipher: chacha20-ietf-poly1305, password: 63ce5c62-5199-448d-b750-8176b3744d4d, udp: true}
-  - {name: 🇺🇸 美国高速-AI专用, server: suyun.laowu.life, port: 49152, type: trojan, password: e07976d4-8695-4e31-92c3-02f09abc2eb4, sni: suyun.laowu.life, skip-cert-verify: false, udp: true}
-  - {name: CHILE, server: 129.151.99.94, port: 23345, type: ss, cipher: chacha20-ietf-poly1305, password: 63ce5c62-5199-448d-b750-8176b3744d4d, udp: true}
-  - {name: 🇭🇰 HONG KONG, server: 202.155.141.87, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: 63ce5c62-5199-448d-b750-8176b3744d4d, udp: true}
-  - {name: SWITZERLAND, server: 140.238.175.124, port: 33345, type: ss, cipher: chacha20-ietf-poly1305, password: 63ce5c62-5199-448d-b750-8176b3744d4d, udp: true}
-  - {name: 🇨🇦 CANADA, server: 140.238.153.81, port: 13345, type: ss, cipher: chacha20-ietf-poly1305, password: 63ce5c62-5199-448d-b750-8176b3744d4d, udp: true}
-  - {name: 🇯🇵 日本节点1, server: 193.111.30.213, port: 20000, type: ss, cipher: chacha20-ietf-poly1305, password: 611f31e5-8a5a-45af-a4e6-43c9f68e22b9, udp: true}
-  - {name: 🇸🇬 SINGAPORE, server: 140.245.121.101, port: 43345, type: ss, cipher: chacha20-ietf-poly1305, password: 63ce5c62-5199-448d-b750-8176b3744d4d, udp: true}
-  - {name: 🇫🇷 FRANCE, server: 141.253.107.174, port: 22345, type: ss, cipher: chacha20-ietf-poly1305, password: 63ce5c62-5199-448d-b750-8176b3744d4d, udp: true}
-  - {name: 🇬🇧 THE UNITED KINGDOM, server: 140.238.64.207, port: 42345, type: ss, cipher: chacha20-ietf-poly1305, password: 63ce5c62-5199-448d-b750-8176b3744d4d, udp: true}
+  - {name: 🇫🇷 FRANCE, server: 141.253.107.174, port: 22345, type: ss, cipher: chacha20-ietf-poly1305, password: 9ea70e14-02cc-403d-a893-3f2a92f69210, udp: true}
+  - {name: 🇯🇵 东京节点1, server: 54.95.114.31, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: a815fc67-0e39-4a5d-839d-e9b0ff841fab, udp: true}
+  - {name: 🇯🇵 日本节点1, server: 193.111.30.213, port: 20000, type: ss, cipher: chacha20-ietf-poly1305, password: a815fc67-0e39-4a5d-839d-e9b0ff841fab, udp: true}
+  - {name: 🇬🇧 THE UNITED KINGDOM, server: 140.238.64.207, port: 42345, type: ss, cipher: chacha20-ietf-poly1305, password: 9ea70e14-02cc-403d-a893-3f2a92f69210, udp: true}
+  - {name: 🇭🇰 HONG KONG, server: 202.155.141.87, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: 9ea70e14-02cc-403d-a893-3f2a92f69210, udp: true}
+  - {name: SWITZERLAND, server: 140.238.175.124, port: 33345, type: ss, cipher: chacha20-ietf-poly1305, password: 9ea70e14-02cc-403d-a893-3f2a92f69210, udp: true}
+  - {name: 🇺🇸 美国高速-AI专用, server: suyun.laowu.life, port: 49152, type: trojan, password: 441b3e38-afd9-45b7-a54c-108b6d455147, sni: suyun.laowu.life, skip-cert-verify: false, udp: true}
+  - {name: CHILE, server: 129.151.99.94, port: 23345, type: ss, cipher: chacha20-ietf-poly1305, password: 9ea70e14-02cc-403d-a893-3f2a92f69210, udp: true}
+  - {name: 🇭🇰 香港节点1, server: 156.226.169.18, port: 20000, type: ss, cipher: chacha20-ietf-poly1305, password: a815fc67-0e39-4a5d-839d-e9b0ff841fab, udp: true}
+  - {name: 🇸🇬 SINGAPORE, server: 140.245.121.101, port: 43345, type: ss, cipher: chacha20-ietf-poly1305, password: 9ea70e14-02cc-403d-a893-3f2a92f69210, udp: true}
+  - {name: 🇨🇦 CANADA, server: 140.238.153.81, port: 13345, type: ss, cipher: chacha20-ietf-poly1305, password: 9ea70e14-02cc-403d-a893-3f2a92f69210, udp: true}
+  - {name: 🇺🇸 UNITED STATES, server: 152.67.250.45, port: 52345, type: ss, cipher: chacha20-ietf-poly1305, password: 9ea70e14-02cc-403d-a893-3f2a92f69210, udp: true}
