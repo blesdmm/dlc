@@ -1,7 +1,6 @@
 https://multiserver.multiserveradelshoop.com
-https://119.29.57.170:38888
 http://v3.v3board.com
 https://vv.louwangzhiyu.org
-https://mianban.tgyun.org
 https://www.yywhale.com
-https://board.eyelink.ai
+https://mianban.tgyun.org
+https://119.29.57.170:38888
