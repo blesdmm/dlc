@@ -1,3 +1,5 @@
 proxies:
-  - {name: 🇯🇵 日本节点1, server: 193.111.30.213, port: 20000, type: ss, cipher: chacha20-ietf-poly1305, password: e8dabc19-0bfc-41c5-ac5a-0a50f3cdb13f, udp: true}
-  - {name: 🇭🇰 香港节点1, server: 156.226.169.18, port: 20000, type: ss, cipher: chacha20-ietf-poly1305, password: e8dabc19-0bfc-41c5-ac5a-0a50f3cdb13f, udp: true}
+  - {name: 🇯🇵 JP, server: jp200m.jiasu.asia, port: 50000, type: trojan, password: 2962a7b9-eb2f-4b94-a7ca-2d58f231a2f6, sni: jp200m.jiasu.asia, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 US, server: us200m.jiasu.asia, port: 50000, type: trojan, password: 2962a7b9-eb2f-4b94-a7ca-2d58f231a2f6, sni: us200m.jiasu.asia, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 HK, server: hk200m.jiasu.asia, port: 50000, type: trojan, password: 2962a7b9-eb2f-4b94-a7ca-2d58f231a2f6, sni: hk200m.jiasu.asia, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国高速-AI专用, server: suyun.laowu.life, port: 49152, type: trojan, password: ed1665bf-8041-4133-b28d-2cf3c494d142, sni: suyun.laowu.life, skip-cert-verify: false, udp: true}
