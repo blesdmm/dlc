@@ -1,5 +1,4 @@
 proxies:
-  - {name: 🇯🇵 JP, server: jp200m.jiasu.asia, port: 50000, type: trojan, password: 2962a7b9-eb2f-4b94-a7ca-2d58f231a2f6, sni: jp200m.jiasu.asia, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 US, server: us200m.jiasu.asia, port: 50000, type: trojan, password: 2962a7b9-eb2f-4b94-a7ca-2d58f231a2f6, sni: us200m.jiasu.asia, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 HK, server: hk200m.jiasu.asia, port: 50000, type: trojan, password: 2962a7b9-eb2f-4b94-a7ca-2d58f231a2f6, sni: hk200m.jiasu.asia, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国高速-AI专用, server: suyun.laowu.life, port: 49152, type: trojan, password: ed1665bf-8041-4133-b28d-2cf3c494d142, sni: suyun.laowu.life, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 美国高速-AI专用, server: suyun.laowu.life, port: 49152, type: trojan, password: fffe21cd-26db-41b0-adf2-60d59377c3f9, sni: suyun.laowu.life, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 HK, server: hk200m.jiasu.asia, port: 50000, type: trojan, password: b07ef5dc-0cbd-4ac2-a732-e41c3bb01e2e, sni: hk200m.jiasu.asia, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP, server: jp200m.jiasu.asia, port: 50000, type: trojan, password: b07ef5dc-0cbd-4ac2-a732-e41c3bb01e2e, sni: jp200m.jiasu.asia, skip-cert-verify: false, udp: true}
