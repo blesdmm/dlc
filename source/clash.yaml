@@ -1,4 +1,3 @@
 proxies:
-  - {name: 🇺🇸 中部-美国NETFLIX TIKTOK DISNEY, server: us.ma-etcs.fun, port: 45669, type: trojan, password: 51141320-1e52-4c66-8fef-25d52adb1a82, sni: us.ma-etcs.fun, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 HK, server: hk200m.jiasu.asia, port: 50000, type: trojan, password: 4d0e28cb-df56-4faf-b9c4-250db2dea64a, sni: hk200m.jiasu.asia, skip-cert-verify: false, udp: true}
-  - {name: 🇯🇵 JP, server: jp200m.jiasu.asia, port: 50000, type: trojan, password: 4d0e28cb-df56-4faf-b9c4-250db2dea64a, sni: jp200m.jiasu.asia, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 HK, server: hk200m.jiasu.asia, port: 50000, type: trojan, password: 52bacece-8225-4f8d-b5d8-eaaadbdfa6cd, sni: hk200m.jiasu.asia, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP, server: jp200m.jiasu.asia, port: 50000, type: trojan, password: 52bacece-8225-4f8d-b5d8-eaaadbdfa6cd, sni: jp200m.jiasu.asia, skip-cert-verify: false, udp: true}
