@@ -1,3 +1,3 @@
 proxies:
-  - {name: 🇯🇵 JP, server: jp200m.jiasu.asia, port: 50000, type: trojan, password: 034e8f3b-0774-4aff-8475-7d194b36b14c, sni: jp200m.jiasu.asia, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 HK, server: hk200m.jiasu.asia, port: 50000, type: trojan, password: 034e8f3b-0774-4aff-8475-7d194b36b14c, sni: hk200m.jiasu.asia, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 HK, server: hk200m.jiasu.asia, port: 50000, type: trojan, password: f1a4dcf3-47ff-44d2-b61a-7c27a51a2073, sni: hk200m.jiasu.asia, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP, server: jp200m.jiasu.asia, port: 50000, type: trojan, password: f1a4dcf3-47ff-44d2-b61a-7c27a51a2073, sni: jp200m.jiasu.asia, skip-cert-verify: false, udp: true}
