@@ -1,3 +1,20 @@
 proxies:
-  - {name: 🇯🇵 JP, server: jp200m.jiasu.asia, port: 50000, type: trojan, password: 26c0360c-fa23-44de-b70f-4307cc5dc77d, sni: jp200m.jiasu.asia, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 HK, server: hk200m.jiasu.asia, port: 50000, type: trojan, password: 26c0360c-fa23-44de-b70f-4307cc5dc77d, sni: hk200m.jiasu.asia, skip-cert-verify: false, udp: true}
+  - {name: 🇸🇬 新加坡-中转2区2x, server: sgaws.fffo.cc, port: 34501, type: anytls, password: a0fd2f29-9e3e-45a9-bed0-1ec897a1badd, udp: true, sni: sg.xinjiapo.fifafa.vip, skip-cert-verify: false}
+  - {name: 🇷🇺 俄罗斯-中转2区2.0x, server: sgaws.fffo.cc, port: 34530, type: anytls, password: a0fd2f29-9e3e-45a9-bed0-1ec897a1badd, udp: true, sni: els.pooo.cc, skip-cert-verify: false}
+  - {name: 🇬🇧 英国住宅-中转2区3x, server: sgaws.fffo.cc, port: 34526, type: anytls, password: a0fd2f29-9e3e-45a9-bed0-1ec897a1badd, udp: true, sni: imperial.ac.uk, skip-cert-verify: true}
+  - {name: 🇳🇱 荷兰-中转2区2x, server: sgaws.fffo.cc, port: 34503, type: anytls, password: a0fd2f29-9e3e-45a9-bed0-1ec897a1badd, udp: true, sni: tudelft.nl, skip-cert-verify: true}
+  - {name: 🇭🇰 HK, server: hk200m.jiasu.asia, port: 50000, type: trojan, password: 2da636b9-c3b4-4c26-b650-c0f67c5d026c, sni: hk200m.jiasu.asia, skip-cert-verify: false, udp: true}
+  - {name: 🇺🇸 洛杉矶-中转2区, server: sgaws.fffo.cc, port: 34502, type: anytls, password: a0fd2f29-9e3e-45a9-bed0-1ec897a1badd, udp: true, sni: caltech.edu, skip-cert-verify: true}
+  - {name: 🇭🇰 香港A-中转2区2.5x, server: sgaws.fffo.cc, port: 34515, type: anytls, password: a0fd2f29-9e3e-45a9-bed0-1ec897a1badd, udp: true, sni: hk.xianggang.fifafa.vip, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡-中转1区 2.5x, server: sggc.fffo.cc, port: 34501, type: anytls, password: a0fd2f29-9e3e-45a9-bed0-1ec897a1badd, udp: true, sni: sg.xinjiapo.fifafa.vip, skip-cert-verify: false}
+  - {name: 🇰🇭 柬埔寨-中转2区2.0x, server: sgaws.fffo.cc, port: 34505, type: anytls, password: a0fd2f29-9e3e-45a9-bed0-1ec897a1badd, udp: true, sni: jianpuzhai.pooo.cc, skip-cert-verify: false}
+  - {name: 🇹🇼 台湾A-中转2区 2x, server: sgaws.fffo.cc, port: 34516, type: anytls, password: a0fd2f29-9e3e-45a9-bed0-1ec897a1badd, udp: true, sni: snu.ac.kr, skip-cert-verify: true}
+  - {name: 🇧🇬 保加利亚-中转2区2x, server: sgaws.fffo.cc, port: 34522, type: anytls, password: a0fd2f29-9e3e-45a9-bed0-1ec897a1badd, udp: true, sni: bjly.pooo.cc, skip-cert-verify: false}
+  - {name: 🇹🇼 台湾B-中转2区2x, server: sgaws.fffo.cc, port: 34524, type: anytls, password: a0fd2f29-9e3e-45a9-bed0-1ec897a1badd, udp: true, sni: hkust.edu.hk, skip-cert-verify: true}
+  - {name: 🇯🇵 日本住宅-中转2区2.0x, server: sgaws.fffo.cc, port: 34529, type: anytls, password: a0fd2f29-9e3e-45a9-bed0-1ec897a1badd, udp: true, sni: jpzz.pooo.cc, skip-cert-verify: false}
+  - {name: 🇹🇷 土耳其-中转2区, server: sgaws.fffo.cc, port: 34523, type: anytls, password: a0fd2f29-9e3e-45a9-bed0-1ec897a1badd, udp: true, sni: teq.pooo.cc, skip-cert-verify: false}
+  - {name: 🇯🇵 日本A-中转2区2.5x, server: sgaws.fffo.cc, port: 34504, type: anytls, password: a0fd2f29-9e3e-45a9-bed0-1ec897a1badd, udp: true, sni: waseda.jp, skip-cert-verify: true}
+  - {name: 🇨🇦 加拿大-中转2区2x, server: sgaws.fffo.cc, port: 34525, type: anytls, password: a0fd2f29-9e3e-45a9-bed0-1ec897a1badd, udp: true, sni: utoronto.ca, skip-cert-verify: true}
+  - {name: 🇦🇺 悉尼-中转2区, server: sgaws.fffo.cc, port: 34506, type: anytls, password: a0fd2f29-9e3e-45a9-bed0-1ec897a1badd, udp: true, sni: xini.fifafa.vip, skip-cert-verify: false}
+  - {name: 🇭🇰 香港B-中转2区2x, server: sgaws.fffo.cc, port: 34520, type: anytls, password: a0fd2f29-9e3e-45a9-bed0-1ec897a1badd, udp: true, sni: hkust.edu.hk, skip-cert-verify: true}
+  - {name: 🇯🇵 JP, server: jp200m.jiasu.asia, port: 50000, type: trojan, password: 2da636b9-c3b4-4c26-b650-c0f67c5d026c, sni: jp200m.jiasu.asia, skip-cert-verify: false, udp: true}
