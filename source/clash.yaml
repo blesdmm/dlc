@@ -1,3 +1,3 @@
 proxies:
-  - {name: 443-1A, server: us3.vp1000.net, port: 443, type: vmess, uuid: ff14677c-aa21-43b1-8e7c-6d11881fd5c2, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: "%2Fcp100vp800kkkdsnx", headers: {Host: us3.vp1000.net}}, udp: true}
-  - {name: 🇯🇵 JP, server: jp200m.jiasu.asia, port: 50000, type: trojan, password: 820c0883-1344-47bd-a3a7-db9c6e173517, sni: jp200m.jiasu.asia, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 JP, server: jp200m.jiasu.asia, port: 50000, type: trojan, password: 22f1bcdb-7829-4802-bc3b-a8d619d2c918, sni: jp200m.jiasu.asia, skip-cert-verify: false, udp: true}
+  - {name: 443-1A, server: us3.vp1000.net, port: 443, type: vmess, uuid: 5f335b10-2ffd-4a21-84e9-de7bb5e1241c, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: "%2Fcp100vp800kkkdsnx", headers: {Host: us3.vp1000.net}}, udp: true}
