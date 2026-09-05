@@ -1,1 +1,1 @@
-{"outbounds":[{"type":"trojan","tag":"🇭🇰 HK","server":"hk200m.jiasu.asia","server_port":50000,"password":"621650e2-f644-41e0-b5d4-a2aa5b9a1609","tls":{"enabled":true,"server_name":"hk200m.jiasu.asia","insecure":false}}]}
+{"outbounds":[{"type":"trojan","tag":"🇯🇵 JP","server":"jp200m.jiasu.asia","server_port":50000,"password":"49928494-380d-4e26-b305-6d94c1929d9b","tls":{"enabled":true,"server_name":"jp200m.jiasu.asia","insecure":false}}]}
