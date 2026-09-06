@@ -1,1 +1,1 @@
-{"outbounds":[{"type":"trojan","tag":"🇯🇵 JP","server":"jp200m.jiasu.asia","server_port":50000,"password":"7007d52d-e0e1-44fe-936b-099e3bd69e68","tls":{"enabled":true,"server_name":"jp200m.jiasu.asia","insecure":false}}]}
+{"outbounds":[{"type":"vmess","tag":"443","server":"us3.vp1000.net","server_port":443,"uuid":"c96edc3e-c4a7-4d24-a8ba-f2f0377d7919","alter_id":0,"security":"auto","transport":{"type":"ws","path":"%2Fcp100vp800kkkdsnx","headers":{"Host":"us3.vp1000.net"}},"tls":{"enabled":true,"insecure":false}}]}

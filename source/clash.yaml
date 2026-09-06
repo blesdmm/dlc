@@ -1,2 +1,2 @@
 proxies:
-  - {name: 🇯🇵 JP, server: jp200m.jiasu.asia, port: 50000, type: trojan, password: 7007d52d-e0e1-44fe-936b-099e3bd69e68, sni: jp200m.jiasu.asia, skip-cert-verify: false, udp: true}
+  - {name: 443, server: us3.vp1000.net, port: 443, type: vmess, uuid: c96edc3e-c4a7-4d24-a8ba-f2f0377d7919, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: "%2Fcp100vp800kkkdsnx", headers: {Host: us3.vp1000.net}}, udp: true}
