@@ -1,2 +1,2 @@
 proxies:
-  - {name: 443, server: us3.vp1000.net, port: 443, type: vmess, uuid: cdfcbb0c-8bc9-4762-a096-ff303aee4e97, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: "%2Fcp100vp800kkkdsnx", headers: {Host: us3.vp1000.net}}, udp: true}
+  - {name: 443, server: us3.vp1000.net, port: 443, type: vmess, uuid: cc814cf5-96ae-45cf-9d3d-ef487fc0c469, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: "%2Fcp100vp800kkkdsnx", headers: {Host: us3.vp1000.net}}, udp: true}
