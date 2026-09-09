@@ -1,9 +1,7 @@
-https://board.eyelink.ai/s/4589cc66501790d053aba639c2d7ebe7
-https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=955bf1fb5d8c169ead373fbfbb77f43a
-https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=2986b5200dc4a2aead5a0f31e215477e
-https://multiserver.multiserveradelshoop.com/api/v1/client/subscribe?token=8d168c78a4c07d84ed78d8e8ef28b009
-https://vmshell.net/api/v1/client/subscribe?token=5f195cfc54dcabef3e82be5b6f2b8fd9
-https://www.yywhale.com/api/v1/client/subscribe?token=9b301dbd3d58c48dfc3c9f89bc73c8f1
-https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=3b8b57a4693b5e13f080d59c582642d7
-https://www.vmshell.net/api/v1/client/subscribe?token=9c95a4bea3c42b0bca796857d60f421b
-https://119.29.57.170:38888/wuguisub?token=fbfc76a2923eaecd265e123405dc7749
+https://vmshell.net/api/v1/client/subscribe?token=035111401342d93496e03d087621d2ff
+https://119.29.57.170:38888/wuguisub?token=ed3142a0120b95fd867fb1a10460f880
+https://www.vmshell.net/api/v1/client/subscribe?token=6615ce5e9dd8a69da3aceb7665c5c001
+https://d1ywvjbifrq4kr.cloudfront.net/s/1e143c0686111e8b273ecf7e432730b7
+https://www.yywhale.com/api/v1/client/subscribe?token=76fd8f91d8498b5fecc5cc6ead42fcf7
+https://board.eyelink.ai/s/8cf2f0b765ff8cb86f36366a33d24363
+https://multiserver.multiserveradelshoop.com/api/v1/client/subscribe?token=fcb11bc69f3fbcde1e4fbb7eb31b7ec1

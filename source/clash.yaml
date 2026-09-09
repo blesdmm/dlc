@@ -1,3 +1,4 @@
 proxies:
-  - {name: 2086-1B, server: free-node-usa.vmshell.net, port: 2086, type: vmess, uuid: 95d6f5dc-420f-4501-b824-d0d69629d286, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: free-node-usa.vmshell.net}}, udp: true}
-  - {name: 2086-1A, server: free-node-usa.vmshell.net, port: 2086, type: vmess, uuid: 263b868f-8f87-4925-af63-603bfc99a12c, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: free-node-usa.vmshell.net}}, udp: true}
+  - {name: 2086-1B, server: free-node-usa.vmshell.net, port: 2086, type: vmess, uuid: d2a3673a-c745-4036-9d10-30c9b6946e42, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: free-node-usa.vmshell.net}}, udp: true}
+  - {name: 443, server: us3.vp1000.net, port: 443, type: vmess, uuid: 3ba9f1bb-65ee-4193-94d2-b2a38afbadcc, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: "%2Fcp100vp800kkkdsnx", headers: {Host: us3.vp1000.net}}, udp: true}
+  - {name: 2086-1A, server: free-node-usa.vmshell.net, port: 2086, type: vmess, uuid: 5f4ec495-fb4d-475c-9e1d-374725b92b86, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: /, headers: {Host: free-node-usa.vmshell.net}}, udp: true}
