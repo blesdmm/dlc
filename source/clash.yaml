@@ -1,25 +1,2 @@
 proxies:
-  - {name: 🇨🇦 加拿大 01, server: 124.71.61.72, port: 4065, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇦🇺 澳大利亚 01, server: 124.71.61.72, port: 4063, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇯🇵 日本 03, server: 124.71.61.72, port: 4029, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇹🇼 台湾 02, server: 124.71.61.72, port: 4004, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国 01, server: 124.71.61.72, port: 4001, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇹🇼 台湾 03, server: 124.71.61.72, port: 4027, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 新加坡 02, server: 124.71.61.72, port: 4008, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇵🇭 菲律宾 01, server: 124.71.61.72, port: 4056, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇰🇷 韩国 01, server: 124.71.61.72, port: 4052, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇮🇩 印尼 01, server: 124.71.61.72, port: 4058, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇧🇷 巴西 01, server: 124.71.61.72, port: 4062, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇹🇼 台湾 01, server: 124.71.61.72, port: 4003, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇬🇧 英国 01, server: 124.71.61.72, port: 4053, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 新加坡 03, server: 124.71.61.72, port: 4012, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 443, server: us3.vp1000.net, port: 443, type: vmess, uuid: 2482490a-b49c-4a25-8ed8-a2b215d62975, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: "%2Fcp100vp800kkkdsnx", headers: {Host: us3.vp1000.net}}, udp: true}
-  - {name: 🇲🇾 马来西亚 01, server: 124.71.61.72, port: 4054, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇹🇭 泰国 01, server: 124.71.61.72, port: 4060, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇮🇳 印度 01, server: 124.71.61.72, port: 4057, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇯🇵 日本 02, server: 124.71.61.72, port: 4010, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇩🇪 德国 01, server: 124.71.61.72, port: 4064, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 新加坡 01, server: 124.71.61.72, port: 4000, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇳🇱 荷兰 01, server: 124.71.61.72, port: 4061, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇹🇷 土耳其 01, server: 124.71.61.72, port: 4055, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港 01, server: 124.71.61.72, port: 4005, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 443, server: us3.vp1000.net, port: 443, type: vmess, uuid: dfbc17ab-06f6-4f70-85b4-6114778d29b6, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: "%2Fcp100vp800kkkdsnx", headers: {Host: us3.vp1000.net}}, udp: true}
