@@ -1,15 +1,13 @@
 proxies:
-  - {name: 🇯🇵 日本隧道解锁OPENAI, server: qingfeng.qnycjxt.cn, port: 21363, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 新加坡隧道, server: qingfeng.qnycjxt.cn, port: 21374, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
+  - {name: 🇹🇼 台湾原生隧道, server: qingfeng.qnycjxt.cn, port: 21368, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国西雅图, server: qingfeng.qnycjxt.cn, port: 31370, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
+  - {name: 🇰🇷 韩国, server: qingfeng.qnycjxt.cn, port: 21908, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港原生隧道, server: qingfeng.qnycjxt.cn, port: 21364, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国纽约, server: qingfeng.qnycjxt.cn, port: 21370, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国高速隧道, server: qingfeng.qnycjxt.cn, port: 21367, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
   - {name: 🇻🇳 越南原生1隧道解锁OPENAI, server: qingfeng.qnycjxt.cn, port: 21369, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港, server: qingfeng.qnycjxt.cn, port: 21371, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 🇹🇼 台湾原生隧道, server: qingfeng.qnycjxt.cn, port: 21368, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
   - {name: 🇹🇭 泰国隧道解锁OPENAI, server: qingfeng.qnycjxt.cn, port: 21372, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 新加坡隧道, server: qingfeng.qnycjxt.cn, port: 21374, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
   - {name: 🇺🇸 美国洛杉矶, server: qingfeng.qnycjxt.cn, port: 21970, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港原生隧道, server: qingfeng.qnycjxt.cn, port: 21364, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港, server: qingfeng.qnycjxt.cn, port: 21371, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
   - {name: 🇬🇧 英国隧道解锁OPENAI, server: qingfeng.qnycjxt.cn, port: 21373, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 443, server: us3.vp1000.net, port: 443, type: vmess, uuid: d27a3887-ddb1-41fe-995c-a1763ab0fba7, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: "%2Fcp100vp800kkkdsnx", headers: {Host: us3.vp1000.net}}, udp: true}
-  - {name: 🇰🇷 韩国, server: qingfeng.qnycjxt.cn, port: 21908, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国西雅图, server: qingfeng.qnycjxt.cn, port: 31370, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国纽约, server: qingfeng.qnycjxt.cn, port: 21370, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
