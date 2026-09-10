@@ -1,13 +1,25 @@
 proxies:
-  - {name: 🇹🇼 台湾原生隧道, server: qingfeng.qnycjxt.cn, port: 21368, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国西雅图, server: qingfeng.qnycjxt.cn, port: 31370, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 🇰🇷 韩国, server: qingfeng.qnycjxt.cn, port: 21908, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港原生隧道, server: qingfeng.qnycjxt.cn, port: 21364, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国纽约, server: qingfeng.qnycjxt.cn, port: 21370, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国高速隧道, server: qingfeng.qnycjxt.cn, port: 21367, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 🇻🇳 越南原生1隧道解锁OPENAI, server: qingfeng.qnycjxt.cn, port: 21369, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 🇹🇭 泰国隧道解锁OPENAI, server: qingfeng.qnycjxt.cn, port: 21372, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 🇸🇬 新加坡隧道, server: qingfeng.qnycjxt.cn, port: 21374, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 🇺🇸 美国洛杉矶, server: qingfeng.qnycjxt.cn, port: 21970, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 🇭🇰 香港, server: qingfeng.qnycjxt.cn, port: 21371, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
-  - {name: 🇬🇧 英国隧道解锁OPENAI, server: qingfeng.qnycjxt.cn, port: 21373, type: trojan, password: 0deec595-aa0d-4d2b-b2f4-b72630459ac3, sni: www.itunes.com, skip-cert-verify: true, udp: true}
+  - {name: 🇨🇦 加拿大 01, server: 124.71.61.72, port: 4065, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇦🇺 澳大利亚 01, server: 124.71.61.72, port: 4063, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 03, server: 124.71.61.72, port: 4029, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇹🇼 台湾 02, server: 124.71.61.72, port: 4004, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 美国 01, server: 124.71.61.72, port: 4001, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇹🇼 台湾 03, server: 124.71.61.72, port: 4027, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 新加坡 02, server: 124.71.61.72, port: 4008, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇵🇭 菲律宾 01, server: 124.71.61.72, port: 4056, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇰🇷 韩国 01, server: 124.71.61.72, port: 4052, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇮🇩 印尼 01, server: 124.71.61.72, port: 4058, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇧🇷 巴西 01, server: 124.71.61.72, port: 4062, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇹🇼 台湾 01, server: 124.71.61.72, port: 4003, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇬🇧 英国 01, server: 124.71.61.72, port: 4053, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 新加坡 03, server: 124.71.61.72, port: 4012, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 443, server: us3.vp1000.net, port: 443, type: vmess, uuid: 2482490a-b49c-4a25-8ed8-a2b215d62975, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: "%2Fcp100vp800kkkdsnx", headers: {Host: us3.vp1000.net}}, udp: true}
+  - {name: 🇲🇾 马来西亚 01, server: 124.71.61.72, port: 4054, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇹🇭 泰国 01, server: 124.71.61.72, port: 4060, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇮🇳 印度 01, server: 124.71.61.72, port: 4057, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇯🇵 日本 02, server: 124.71.61.72, port: 4010, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇩🇪 德国 01, server: 124.71.61.72, port: 4064, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 新加坡 01, server: 124.71.61.72, port: 4000, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇳🇱 荷兰 01, server: 124.71.61.72, port: 4061, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇹🇷 土耳其 01, server: 124.71.61.72, port: 4055, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
+  - {name: 🇭🇰 香港 01, server: 124.71.61.72, port: 4005, type: trojan, password: 4e7c56ed-68dc-358d-8b4b-fe5c2e74632d, sni: baidu.com, skip-cert-verify: true, udp: true}
