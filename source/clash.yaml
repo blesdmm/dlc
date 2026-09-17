@@ -1,2 +1,13 @@
 proxies:
-  - {name: 443, server: us3.vp1000.net, port: 443, type: vmess, uuid: 5ecad4c2-fe72-4909-8b9a-af82a2c15a53, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: "%2Fcp100vp800kkkdsnx", headers: {Host: us3.vp1000.net}}, udp: true}
+  - {name: 🇭🇰 HK 2|香港, server: hk.yunshu.life, port: 36138, type: anytls, password: 541d6938-1e8b-48e9-8c36-742518786939, udp: true, sni: hk2.yunshu.life, skip-cert-verify: false}
+  - {name: 🇻🇳 VN 2|越南, server: rb.yunshu.life, port: 9428, type: anytls, password: 541d6938-1e8b-48e9-8c36-742518786939, udp: true, sni: vn.yunshu.life, skip-cert-verify: false}
+  - {name: 🇨🇦 CA 1|加拿大, server: mg.e3v5.com, port: 35663, type: anytls, password: 541d6938-1e8b-48e9-8c36-742518786939, udp: true, sni: ca.yunshu.life, skip-cert-verify: true}
+  - {name: 🇯🇵 JP 1|日本, server: rb.yunshu.life, port: 443, type: anytls, password: 541d6938-1e8b-48e9-8c36-742518786939, udp: true, sni: rb.yunshu.life, skip-cert-verify: false}
+  - {name: 🇺🇸 US 3|美国, server: mg.l3v1.my, port: 443, type: anytls, password: 541d6938-1e8b-48e9-8c36-742518786939, udp: true, skip-cert-verify: true}
+  - {name: 🇸🇬 SG 1|新加坡, server: xjp1.yunshu.life, port: 443, type: anytls, password: 541d6938-1e8b-48e9-8c36-742518786939, udp: true, sni: xjp1.yunshu.life, skip-cert-verify: false}
+  - {name: 🇺🇸 US 4|美国, server: mg4.yunshu.life, port: 443, type: anytls, password: 541d6938-1e8b-48e9-8c36-742518786939, udp: true, sni: mg4.yunshu.life, skip-cert-verify: false}
+  - {name: 🇭🇰 HK 1|香港, server: hk.yunshu.life, port: 443, type: anytls, password: 541d6938-1e8b-48e9-8c36-742518786939, udp: true, sni: hk.yunshu.life, skip-cert-verify: false}
+  - {name: 🇯🇵 JP 2|日本, server: rb.yunshu.life, port: 4236, type: anytls, password: 541d6938-1e8b-48e9-8c36-742518786939, udp: true, sni: jp.yunshu.life, skip-cert-verify: false}
+  - {name: 🇩🇪 DZ 1|德国, server: dg.yunshu.life, port: 443, type: anytls, password: 541d6938-1e8b-48e9-8c36-742518786939, udp: true, sni: dg.yunshu.life, skip-cert-verify: false}
+  - {name: 🇺🇸 US 2|美国, server: mg.e3v5.com, port: 40381, type: anytls, password: 541d6938-1e8b-48e9-8c36-742518786939, udp: true, sni: mg2.yunshu.life, skip-cert-verify: false}
+  - {name: 🇺🇸 US 1|美国, server: mg.e3v5.com, port: 3927, type: anytls, password: 541d6938-1e8b-48e9-8c36-742518786939, udp: true, sni: mg1.yunshu.life, skip-cert-verify: false}
