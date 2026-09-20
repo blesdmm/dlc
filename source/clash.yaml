@@ -1,2 +1,2 @@
 proxies:
-  - {name: 🇭🇰 香港 0x 1, server: 114.maicloud.cc, port: 18187, type: ss, cipher: aes-128-gcm, password: 8d366230-a2dc-484f-8d3c-8b361ea9edb8, udp: true}
+  - {name: 🇭🇰 香港 0x 1, server: 114.maicloud.cc, port: 18187, type: ss, cipher: aes-128-gcm, password: fae016ee-2aa4-47fa-a0a4-3e8bb192deb8, udp: true}
