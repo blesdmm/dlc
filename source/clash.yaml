@@ -1,12 +1,2 @@
 proxies:
-  - {name: 🇺🇸 US 1|美国, server: mg.e3v5.com, port: 3927, type: anytls, password: 8da008e6-5389-439f-8861-749325b1998d, udp: true, sni: mg1.yunshu.life, skip-cert-verify: false}
-  - {name: 🇩🇪 DZ 1|德国, server: dg.yunshu.life, port: 443, type: anytls, password: 8da008e6-5389-439f-8861-749325b1998d, udp: true, sni: dg.yunshu.life, skip-cert-verify: false}
-  - {name: 🇭🇰 HK 1|香港, server: hk.yunshu.life, port: 443, type: anytls, password: 8da008e6-5389-439f-8861-749325b1998d, udp: true, sni: hk.yunshu.life, skip-cert-verify: false}
-  - {name: 🇸🇬 SG 1|新加坡, server: xjp1.yunshu.life, port: 443, type: anytls, password: 8da008e6-5389-439f-8861-749325b1998d, udp: true, sni: xjp1.yunshu.life, skip-cert-verify: false}
-  - {name: 🇯🇵 JP 1|日本, server: rb.yunshu.life, port: 443, type: anytls, password: 8da008e6-5389-439f-8861-749325b1998d, udp: true, sni: rb.yunshu.life, skip-cert-verify: false}
-  - {name: 🇺🇸 US 4|美国, server: mg4.yunshu.life, port: 443, type: anytls, password: 8da008e6-5389-439f-8861-749325b1998d, udp: true, sni: mg4.yunshu.life, skip-cert-verify: false}
-  - {name: 🇨🇦 CA 1|加拿大, server: mg.e3v5.com, port: 35663, type: anytls, password: 8da008e6-5389-439f-8861-749325b1998d, udp: true, sni: ca.yunshu.life, skip-cert-verify: true}
-  - {name: 🇺🇸 US 2|美国, server: mg.e3v5.com, port: 40381, type: anytls, password: 8da008e6-5389-439f-8861-749325b1998d, udp: true, sni: mg2.yunshu.life, skip-cert-verify: false}
-  - {name: 🇺🇸 US 3|美国, server: mg.l3v1.my, port: 443, type: anytls, password: 8da008e6-5389-439f-8861-749325b1998d, udp: true, skip-cert-verify: true}
-  - {name: 🇯🇵 JP 2|日本, server: rb.yunshu.life, port: 4236, type: anytls, password: 8da008e6-5389-439f-8861-749325b1998d, udp: true, sni: jp.yunshu.life, skip-cert-verify: false}
-  - {name: 🇭🇰 HK 2|香港, server: hk.yunshu.life, port: 36138, type: anytls, password: 8da008e6-5389-439f-8861-749325b1998d, udp: true, sni: hk2.yunshu.life, skip-cert-verify: false}
+  - {name: 🇭🇰 香港 0x 1, server: 114.maicloud.cc, port: 18187, type: ss, cipher: aes-128-gcm, password: 8d366230-a2dc-484f-8d3c-8b361ea9edb8, udp: true}
