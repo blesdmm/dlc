@@ -1,1 +1,1 @@
-{"outbounds":[{"type":"shadowsocks","tag":"🇭🇰 香港 0x 1","server":"114.maicloud.cc","server_port":18187,"method":"aes-128-gcm","password":"557489e5-3f64-4949-a0aa-65c6830317ab"}]}
+{"outbounds":[{"type":"shadowsocks","tag":"🇯🇵 日本-兼容","server":"45.76.215.91","server_port":8443,"method":"aes-128-gcm","password":"b139a5ee-4a89-434c-a050-d47ed814846c"},{"type":"shadowsocks","tag":"🇭🇰 香港-兼容","server":"191.223.214.11","server_port":8444,"method":"aes-128-gcm","password":"b139a5ee-4a89-434c-a050-d47ed814846c"}]}
