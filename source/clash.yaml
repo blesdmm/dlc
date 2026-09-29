@@ -1,5 +1,6 @@
 proxies:
-  - {name: 🇭🇰 香港-兼容, server: 191.223.214.11, port: 8444, type: ss, cipher: aes-128-gcm, password: 910f3f3c-a9d5-494e-9ae5-c1194265c59a, udp: true}
-  - {name: 🇭🇰 HONG KONG 01-1B, server: lbb-sanwang-youhua.lbbzz.com, port: 23801, type: vless, uuid: 94c7067b-06eb-4663-a572-07fc8a17ff87, tls: true, flow: xtls-rprx-vision, reality-opts: {public-key: 7ogEKTScQCeqqPGOaUgWZMwX5Xdizvk9JKtu5MMfJ1o, short-id: "274ab0bb" }, servername: www.amd.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: 🇯🇵 日本-兼容, server: 45.76.215.91, port: 8443, type: ss, cipher: aes-128-gcm, password: 910f3f3c-a9d5-494e-9ae5-c1194265c59a, udp: true}
-  - {name: 🇭🇰 HONG KONG 01-1C, server: lbb-sanwang-youhua.lbbzz.com, port: 23801, type: vless, uuid: c3e2ce8f-8cb7-45af-9dec-1ebe4a17f5d2, tls: true, flow: xtls-rprx-vision, reality-opts: {public-key: 7ogEKTScQCeqqPGOaUgWZMwX5Xdizvk9JKtu5MMfJ1o, short-id: "274ab0bb" }, servername: www.amd.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇭🇰 香港-兼容, server: 191.223.214.11, port: 8444, type: ss, cipher: aes-128-gcm, password: 1f0aad46-8cd9-4f4c-940a-f6d9518d172d, udp: true}
+  - {name: 🇭🇰 HONG KONG 01-1C, server: lbb-sanwang-youhua.lbbzz.com, port: 23801, type: vless, uuid: d29d9396-f274-42ab-a896-85514329b82f, tls: true, flow: xtls-rprx-vision, reality-opts: {public-key: 7ogEKTScQCeqqPGOaUgWZMwX5Xdizvk9JKtu5MMfJ1o, short-id: "274ab0bb" }, servername: www.amd.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇭🇰 HONG KONG 01-1B, server: lbb-sanwang-youhua.lbbzz.com, port: 23801, type: vless, uuid: 9a8f66d6-28dd-476b-8396-ddb0c2eaeaec, tls: true, flow: xtls-rprx-vision, reality-opts: {public-key: 7ogEKTScQCeqqPGOaUgWZMwX5Xdizvk9JKtu5MMfJ1o, short-id: "274ab0bb" }, servername: www.amd.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇯🇵 日本-兼容, server: 45.76.215.91, port: 8443, type: ss, cipher: aes-128-gcm, password: 1f0aad46-8cd9-4f4c-940a-f6d9518d172d, udp: true}
+  - {name: 🇯🇵 P-日本03-极速-TROJAN, server: 45.76.218.34, port: 32676, type: trojan, password: cea1bb01-78b3-47e9-b560-db2405681fb1, sni: lazeno.vip, skip-cert-verify: false, udp: true}
