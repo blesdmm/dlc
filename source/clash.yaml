@@ -1,4 +1,2 @@
 proxies:
-  - {name: 🇯🇵 P-日本03-极速-TROJAN, server: 45.76.218.34, port: 32676, type: trojan, password: e2d4bc36-55a7-4d6b-bc15-d333aaebc82c, sni: lazeno.vip, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 HONG KONG 01-1C, server: lbb-sanwang-youhua.lbbzz.com, port: 23801, type: vless, uuid: 43162364-ab9d-46fe-b540-2c7018f176da, tls: true, flow: xtls-rprx-vision, reality-opts: {public-key: 7ogEKTScQCeqqPGOaUgWZMwX5Xdizvk9JKtu5MMfJ1o, short-id: "274ab0bb" }, servername: www.amd.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: 🇭🇰 HONG KONG 01-1B, server: lbb-sanwang-youhua.lbbzz.com, port: 23801, type: vless, uuid: 991c6a4e-334f-41a0-b666-2f2b20e538ad, tls: true, flow: xtls-rprx-vision, reality-opts: {public-key: 7ogEKTScQCeqqPGOaUgWZMwX5Xdizvk9JKtu5MMfJ1o, short-id: "274ab0bb" }, servername: www.amd.com, client-fingerprint: chrome, network: tcp, udp: true}
+  - {name: 🇯🇵 P-日本03-极速-TROJAN, server: 45.76.218.34, port: 32676, type: trojan, password: de60c4fe-d26a-4b49-96ba-ad146f68fb72, sni: lazeno.vip, skip-cert-verify: false, udp: true}
