@@ -1,5 +1,3 @@
 proxies:
-  - {name: 🇭🇰 香港-兼容, server: 191.223.214.11, port: 8444, type: ss, cipher: aes-128-gcm, password: f0363034-109b-43d2-bf1d-409c5c555147, udp: true}
-  - {name: 🇭🇰 HONG KONG 01-1B, server: lbb-sanwang-youhua.lbbzz.com, port: 23801, type: vless, uuid: b7cf99c7-5ebb-4bc3-b59a-93d236c0b0f6, tls: true, flow: xtls-rprx-vision, reality-opts: {public-key: 7ogEKTScQCeqqPGOaUgWZMwX5Xdizvk9JKtu5MMfJ1o, short-id: "274ab0bb" }, servername: www.amd.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: 🇭🇰 HONG KONG 01-1C, server: lbb-sanwang-youhua.lbbzz.com, port: 23801, type: vless, uuid: 8621477f-ba34-47f3-9052-9076ba8ca10e, tls: true, flow: xtls-rprx-vision, reality-opts: {public-key: 7ogEKTScQCeqqPGOaUgWZMwX5Xdizvk9JKtu5MMfJ1o, short-id: "274ab0bb" }, servername: www.amd.com, client-fingerprint: chrome, network: tcp, udp: true}
-  - {name: 🇯🇵 日本-兼容, server: 45.76.215.91, port: 8443, type: ss, cipher: aes-128-gcm, password: f0363034-109b-43d2-bf1d-409c5c555147, udp: true}
+  - {name: 🇯🇵 P-日本03-极速-TROJAN, server: 45.76.218.34, port: 32676, type: trojan, password: 2521d1d2-6311-40fc-9220-075310b0c1fe, sni: lazeno.vip, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 HONG KONG 01-1B, server: lbb-sanwang-youhua.lbbzz.com, port: 23801, type: vless, uuid: 5051d687-a546-44ea-bfe1-19b030ae7f9b, tls: true, flow: xtls-rprx-vision, reality-opts: {public-key: 7ogEKTScQCeqqPGOaUgWZMwX5Xdizvk9JKtu5MMfJ1o, short-id: "274ab0bb" }, servername: www.amd.com, client-fingerprint: chrome, network: tcp, udp: true}
