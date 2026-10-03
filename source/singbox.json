@@ -1,1 +1,1 @@
-{"outbounds":[{"type":"trojan","tag":"🇯🇵 P-日本03-极速-TROJAN","server":"45.76.218.34","server_port":32676,"password":"aacaff3e-a038-4394-9233-c7b1ea2a63c6","tls":{"enabled":true,"server_name":"lazeno.vip","insecure":false}}]}
+{"outbounds":[{"type":"trojan","tag":"🇯🇵 P-日本03-极速-TROJAN","server":"45.76.218.34","server_port":32676,"password":"e67c6adb-5a24-487b-a7d4-1a18b078fd8d","tls":{"enabled":true,"server_name":"lazeno.vip","insecure":false}}]}
