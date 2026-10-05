@@ -1,5 +1,3 @@
 proxies:
-  - {name: 🇯🇵 P-日本03-极速-TROJAN, server: 45.76.218.34, port: 32676, type: trojan, password: c4037c3b-7d5e-4687-a86b-347205e34633, sni: lazeno.vip, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港-B区, server: node2.luoye.ee, port: 443, type: trojan, password: d1f65d02-5624-4d97-a600-bcab5e0de9c0, sni: node2.luoye.ee, skip-cert-verify: false, udp: true}
-  - {name: 🇺🇸 美国-B区, server: node5.luoye.ee, port: 443, type: trojan, password: d1f65d02-5624-4d97-a600-bcab5e0de9c0, sni: node5.luoye.ee, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港-A区, server: node1.luoye.ee, port: 443, type: trojan, password: d1f65d02-5624-4d97-a600-bcab5e0de9c0, sni: node1.luoye.ee, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 P-日本03-极速-TROJAN, server: 45.76.218.34, port: 32676, type: trojan, password: 8141b7d0-5083-4555-b099-7c2b12cd6a61, sni: lazeno.vip, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港-A区, server: node1.luoye.ee, port: 443, type: trojan, password: 7f45a5e6-bb58-4d7c-b87c-dc6525fd3011, sni: node1.luoye.ee, skip-cert-verify: false, udp: true}
