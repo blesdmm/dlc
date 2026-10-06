@@ -1,3 +1,2 @@
 proxies:
-  - {name: 🇯🇵 P-日本03-极速-TROJAN, server: 45.76.218.34, port: 32676, type: trojan, password: 4ec582d8-a590-4b4e-bc6d-b174d6305318, sni: lazeno.vip, skip-cert-verify: false, udp: true}
-  - {name: 🇭🇰 香港-A区, server: node1.luoye.ee, port: 443, type: trojan, password: 49928895-8e75-43c6-92ba-41e5aeed9427, sni: node1.luoye.ee, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港-A区, server: node1.luoye.ee, port: 443, type: trojan, password: 761d6703-689f-4be5-ad52-44392353a0e1, sni: node1.luoye.ee, skip-cert-verify: false, udp: true}
