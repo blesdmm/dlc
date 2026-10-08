@@ -1,9 +1,8 @@
-https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=11757a4f4c8c1573ae95dcafbaccb888
-https://www.yywhale.com/api/v1/client/subscribe?token=773d687d0ec0c55ca2923c1a17f711bf
-https://newslogs.hhcross.top/slogan/35571a5048baf2ec683ca9d0ef56b44e
-https://www.luoye.ee/api/v1/client/subscribe?token=69dd744ac36df0eafbe535dc205e64f0
-http://www.nextsky.site/s/7d141788321b78a4ac77fae2a1d0eb6e
-https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=c53199a4f1bedcf4dde8002c31cce551
-https://lazeno.vip/s/d2029c93de89519af597aeca3f4ee417
-https://119.29.57.170:38888/wuguisub?token=ff37fa92b2a120b5a9f3bd293820c755
-https://f.vvud.us/s/0edc129cd4e24ff03c07278c1e11a534
+https://119.29.57.170:38888/wuguisub?token=640f9c8cb5af2d31511b9f1187947a9d
+https://newslogs.hhcross.top/slogan/70f5078dc6e1224a6c3853a4d86a4295
+https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=47bfdc66354b7a225efc681118525dbe
+https://lazeno.vip/s/143739f46e5b9974e39f009ae9d0bc81
+https://www.luoye.ee/api/v1/client/subscribe?token=17108d9cada84317f2ec6d581dc9cc15
+https://www.yywhale.com/api/v1/client/subscribe?token=088f8313f861213280d5a5550af986cd
+http://www.nextsky.site/s/6ba5043b177789b6496a45ac1054b7d2
+https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=ed6cee0f977c2f0966b091f043a85b1f
