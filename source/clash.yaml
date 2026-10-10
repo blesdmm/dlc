@@ -1,2 +1,2 @@
 proxies:
-  - {name: 🇯🇵 P-日本03-极速-TROJAN, server: 45.76.218.34, port: 32676, type: trojan, password: d6124519-6487-4cc7-a1ee-04c1fc4822f2, sni: lazeno.vip, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 P-日本03-极速-TROJAN, server: 45.76.218.34, port: 32676, type: trojan, password: 2b5d17ed-0f9d-43bf-8524-4ef8768be13b, sni: lazeno.vip, skip-cert-verify: false, udp: true}
