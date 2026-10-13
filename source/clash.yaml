@@ -1,2 +1,6 @@
 proxies:
-  - {name: 🇯🇵 P-日本03-极速-TROJAN, server: 45.76.218.34, port: 32676, type: trojan, password: df273307-e4b5-434e-bb8e-002cfbaae808, sni: lazeno.vip, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 P-日本03-极速-TROJAN, server: 45.76.218.34, port: 32676, type: trojan, password: ad5a5306-a0db-4ba2-9f62-9b31bae21874, sni: lazeno.vip, skip-cert-verify: false, udp: true}
+  - {name: 172.67.195.146 443, server: 172.67.195.146, port: 443, type: vmess, uuid: c4d3ca19-9876-4d5e-874f-77207edff9e9, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: "%2FSydney3", headers: {Host: aus.lovehk.xyz}}, udp: true}
+  - {name: 172.67.142.142 443, server: 172.67.142.142, port: 443, type: vmess, uuid: c4d3ca19-9876-4d5e-874f-77207edff9e9, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: "%2FLondon31", headers: {Host: ukl.lovehk.xyz}}, udp: true}
+  - {name: 172.67.137.209 443, server: 172.67.137.209, port: 443, type: vmess, uuid: c4d3ca19-9876-4d5e-874f-77207edff9e9, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: "%2FLondon31", headers: {Host: ukl.lovehk.xyz}}, udp: true}
+  - {name: 172.67.205.213 443, server: 172.67.205.213, port: 443, type: vmess, uuid: c4d3ca19-9876-4d5e-874f-77207edff9e9, alterId: 0, cipher: auto, tls: true, network: ws, ws-opts: {path: "%2FKualaLumpur1", headers: {Host: my.lovehk.xyz}}, udp: true}

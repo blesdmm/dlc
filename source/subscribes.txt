@@ -1,6 +1,8 @@
-https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=6cc57635c22f2fdab356063841af3247
-https://119.29.57.170:38888/wuguisub?token=1fd5bd9dc69df0dccceca83623b80dc2
-https://lazeno.vip/s/40f76104d54561aba80a82016fa0c53d
-https://www.yywhale.com/api/v1/client/subscribe?token=97c4a6aaa5937981eb5ed8c5a3689eab
-http://www.nextsky.site/s/449e724b4f2696214d149bd4f5301b9a
-https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=9775901fdfe762675dbb11688ecfb0b0
+https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=b6738b29df88c58ad281e66630444ae5
+https://www.yywhale.com/api/v1/client/subscribe?token=53b42d036c2593eeb560277c72a135f7
+http://www.nextsky.site/s/f004d2061b98908b58124cecfe93c47d
+https://lazeno.vip/s/aecab7adaedf8e66680924732b35991e
+https://node.lovehk.xyz/s/52d46610913631b23c011386d61cd118
+https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=4cff06e89689154e390950725ba8c7ec
+https://119.29.57.170:38888/wuguisub?token=ac35de6ff779270b607ee64f581d3d7b
+https://www.luoye.ee/api/v1/client/subscribe?token=f7d588612e847c20c7a6172818cba500
