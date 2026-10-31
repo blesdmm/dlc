@@ -1,8 +1,7 @@
-https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=96d5ca8c127098a90aaca05d5347ac04
-https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=7e459f73b714925f0cf2dd36d9367e30
-https://www.fankeyundingyue.space/fckwec/vip/client/subscribe?token=ceba45c8d612f4edc446d9566d89761c
-https://www.yywhale.com/api/v1/client/subscribe?token=428677db226dad913516b09f54948fd6
-https://www.fankeyundingyue.space/fckwec/vip/client/subscribe?token=80a910870d7c7de2d2b34191abf70457
-https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=15aea093c680e86eb78c18975cba1fb5
-https://kelian.asia/s/37201278b0558d9d4456702dee35236e
-https://1.14.154.150:43443/wuguisub?token=12d5a088d5515c8b64e5337ef2e27730
+https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=8b5dd167cbe1a222d477b6f4db347234
+https://www.yywhale.com/api/v1/client/subscribe?token=183eccfdf8b1a1585f17f84543a70938
+https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=9e9669711f1be8fc3e677cc6895b0fb6
+https://www.fankeyundingyue.space/fckwec/vip/client/subscribe?token=018b1e66f7ab023e80e64e46617ae59f
+https://1.14.154.150:43443/wuguisub?token=0c9951e2f30c76b871eac4fd3886adfd
+https://vv.louwangzhiyu.org/api/v1/client/subscribe?token=6ee28ea138dee3d9ae8a6eec191e7652
+https://www.fankeyundingyue.space/fckwec/vip/client/subscribe?token=c1ba2c0df7f38b687aa9b50921d13f2f
